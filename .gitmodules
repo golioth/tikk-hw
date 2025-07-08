@@ -1,0 +1,3 @@
+[submodule "nrfmicro"]
+	path = nrfmicro
+	url = git@github.com:joric/nrfmicro.git
