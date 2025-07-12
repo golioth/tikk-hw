@@ -561,6 +561,582 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "easyeda2kicad:CC0402KRX7R7BB104"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0402KRX7R7BB104"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0402"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-16V_C60474.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C60474"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0402KRX7R7BB104_0_1"
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "easyeda2kicad:CC0603JRNPO8BN561"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CC0603JRNPO8BN561"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0603"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603JRNPO8BN561_C519396.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C519396"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CC0603JRNPO8BN561_0_1"
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "easyeda2kicad:CL21A106KAYNNNE"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CL21A106KAYNNNE"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C0805"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21A106KAYNNNE_10uF-106-10-25V_C15850.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C15850"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CL21A106KAYNNNE_0_1"
+				(polyline
+					(pts
+						(xy -0.51 0) (xy -2.54 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 -2.03) (xy -0.51 2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin unspecified line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin unspecified line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "easyeda2kicad:CL31A107MQHNNNE"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0 5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "CL31A107MQHNNNE"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "easyeda2kicad:C1206"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL31A107MQHNNNE_100uF-107-20-6-3V_C15008.html"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC Part" "C15008"
+				(at 0 -12.7 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "CL31A107MQHNNNE_0_1"
+				(polyline
+					(pts
+						(xy -1.27 0) (xy -0.51 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.51 2.03) (xy -0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 2.03) (xy 0.51 -2.03)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.51 0) (xy 1.27 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin input line
+					(at -3.81 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin input line
+					(at 3.81 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "easyeda2kicad:CP6208DTR(XBLW)"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -3222,16 +3798,70 @@
 		(uuid "011e0a6e-cf8b-4dc9-89a9-b325b0669e9c")
 	)
 	(junction
+		(at 194.31 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "020f8a59-48e3-4c7d-bd80-95f20cc575ae")
+	)
+	(junction
 		(at 114.3 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a9ae5a1-f553-4c0a-90c9-ae98aa8e9b17")
 	)
 	(junction
-		(at 194.31 49.53)
+		(at 175.26 107.95)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0f0577f7-8e58-4a2a-83c8-e408d8cc7768")
+		(uuid "39e1ee0b-8736-4704-a377-505c82bedaba")
+	)
+	(junction
+		(at 175.26 100.33)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e6eee8c-3e14-4bb3-bb81-94b3677f6041")
+	)
+	(junction
+		(at 124.46 148.59)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "47350d5a-eb40-4977-8f18-5996a4cae885")
+	)
+	(junction
+		(at 337.82 129.54)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4b2e2a66-6e23-4b6d-a004-78dade389647")
+	)
+	(junction
+		(at 312.42 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6671e02a-d434-4051-8227-f72a46bc4862")
+	)
+	(junction
+		(at 340.36 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8810e734-105e-433a-a7f5-46c2c16ead83")
+	)
+	(junction
+		(at 312.42 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b8d2d1b-e059-402b-831a-04207f3ccd08")
+	)
+	(junction
+		(at 337.82 134.62)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9070b06-03ad-44e4-b3d0-6bd8bd763e92")
+	)
+	(junction
+		(at 312.42 76.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bd4c9982-49eb-4e45-9097-a08d3bdfe508")
 	)
 	(junction
 		(at 194.31 45.72)
@@ -3240,10 +3870,28 @@
 		(uuid "c74c69aa-68b9-4a3e-8251-a19e681c87c1")
 	)
 	(junction
+		(at 312.42 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d8f84c47-77d6-491a-90e1-8749af7ef8f9")
+	)
+	(junction
+		(at 340.36 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dc2e2387-556a-4260-9772-cfc4dbfd7361")
+	)
+	(junction
 		(at 119.38 100.33)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e92bb6a3-fe92-4a31-bfbd-05037018d205")
+	)
+	(junction
+		(at 88.9 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f436f84a-a936-46b9-aa5d-dedc6c58c8e0")
 	)
 	(no_connect
 		(at 393.7 223.52)
@@ -3255,13 +3903,33 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 55.88) (xy 151.13 55.88)
+			(xy 312.42 144.78) (xy 312.42 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07da8fa2-99f2-4b93-924a-2ad5e00a0db8")
+	)
+	(wire
+		(pts
+			(xy 140.97 55.88) (xy 156.21 55.88)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "087f57f1-1916-4a59-8768-de1683a09c02")
+	)
+	(wire
+		(pts
+			(xy 323.85 107.95) (xy 318.77 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ce30875-f6a2-4086-9b60-8013f07dc94f")
 	)
 	(wire
 		(pts
@@ -3285,6 +3953,16 @@
 	)
 	(wire
 		(pts
+			(xy 340.36 76.2) (xy 340.36 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "10ecfda3-83a2-4aa4-aa88-ee86a82fe9f1")
+	)
+	(wire
+		(pts
 			(xy 105.41 45.72) (xy 115.57 45.72)
 		)
 		(stroke
@@ -3295,13 +3973,23 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 107.95) (xy 318.77 107.95)
+			(xy 175.26 107.95) (xy 180.34 107.95)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "13792b9c-061d-4e68-a7d8-f0d2b2952366")
+		(uuid "146d528b-d8ff-4bcc-8e00-e5005bd7ab74")
+	)
+	(wire
+		(pts
+			(xy 88.9 148.59) (xy 88.9 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "151b50e5-cfdf-409e-a011-d7e23166b256")
 	)
 	(wire
 		(pts
@@ -3315,6 +4003,16 @@
 	)
 	(wire
 		(pts
+			(xy 337.82 114.3) (xy 337.82 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "192c11ed-b4ed-4ef1-ae92-1c18c883ac85")
+	)
+	(wire
+		(pts
 			(xy 119.38 97.79) (xy 121.92 97.79)
 		)
 		(stroke
@@ -3325,23 +4023,13 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 40.64) (xy 172.72 49.53)
+			(xy 189.23 40.64) (xy 189.23 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "1c81689c-5161-49c0-a6e4-4401edc96c28")
-	)
-	(wire
-		(pts
-			(xy 323.85 102.87) (xy 318.77 102.87)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1e4f3978-fe40-4bbb-9993-780d9b2d581e")
 	)
 	(wire
 		(pts
@@ -3355,6 +4043,16 @@
 	)
 	(wire
 		(pts
+			(xy 124.46 148.59) (xy 124.46 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21bd8167-bad4-4423-ad48-a0c12cb8360f")
+	)
+	(wire
+		(pts
 			(xy 78.74 101.6) (xy 73.66 101.6)
 		)
 		(stroke
@@ -3365,13 +4063,23 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 40.64) (xy 172.72 40.64)
+			(xy 140.97 40.64) (xy 189.23 40.64)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "252b72f6-3e8f-4c2c-8f8e-aadfde6018e4")
+	)
+	(wire
+		(pts
+			(xy 175.26 100.33) (xy 180.34 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2579900c-67b9-4da1-b6d6-506ee4b11319")
 	)
 	(wire
 		(pts
@@ -3385,13 +4093,43 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 49.53) (xy 194.31 49.53)
+			(xy 124.46 148.59) (xy 116.84 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "268cb56c-9012-4343-b2a4-0f103fef0efc")
+	)
+	(wire
+		(pts
+			(xy 189.23 48.26) (xy 194.31 48.26)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "2afb1a71-7dd0-4bed-ad1c-b85fb493e8e7")
+	)
+	(wire
+		(pts
+			(xy 312.42 134.62) (xy 323.85 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2db592db-bc5d-47d3-9139-481ef733d64f")
+	)
+	(wire
+		(pts
+			(xy 312.42 82.55) (xy 312.42 87.63)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e4c6ec8-322a-4bfe-b8da-a1a12cd22c7c")
 	)
 	(wire
 		(pts
@@ -3415,13 +4153,23 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 49.53) (xy 194.31 52.07)
+			(xy 175.26 115.57) (xy 172.72 115.57)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "37ee065b-6bf9-4758-a1fe-415c3e9de7eb")
+		(uuid "362e46e2-532a-4770-b8bb-622d468ffcff")
+	)
+	(wire
+		(pts
+			(xy 342.9 114.3) (xy 337.82 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38586ec4-f98f-484d-b43a-a507de66ef5a")
 	)
 	(wire
 		(pts
@@ -3445,6 +4193,36 @@
 	)
 	(wire
 		(pts
+			(xy 337.82 144.78) (xy 332.74 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42135493-05cb-4e03-94fa-7adc10326fc7")
+	)
+	(wire
+		(pts
+			(xy 175.26 107.95) (xy 175.26 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4249b07e-8d02-4cd4-8c3b-a9baf1cdfc6a")
+	)
+	(wire
+		(pts
+			(xy 157.48 91.44) (xy 162.56 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43a447f6-0584-47b0-83e4-39bd2c7f76b7")
+	)
+	(wire
+		(pts
 			(xy 140.97 38.1) (xy 177.8 38.1)
 		)
 		(stroke
@@ -3455,7 +4233,37 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 116.84) (xy 326.39 107.95)
+			(xy 323.85 93.98) (xy 323.85 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4996a433-9355-48af-96c0-f02c64daad98")
+	)
+	(wire
+		(pts
+			(xy 106.68 148.59) (xy 88.9 148.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4a4e6810-afb7-449c-ae59-18ce5e13d1cd")
+	)
+	(wire
+		(pts
+			(xy 194.31 48.26) (xy 194.31 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d5d6919-442a-46a3-ba87-f23213df3db2")
+	)
+	(wire
+		(pts
+			(xy 326.39 116.84) (xy 326.39 110.49)
 		)
 		(stroke
 			(width 0)
@@ -3485,6 +4293,26 @@
 	)
 	(wire
 		(pts
+			(xy 322.58 66.04) (xy 312.42 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53387174-aa09-443c-983b-b9c750d129c4")
+	)
+	(wire
+		(pts
+			(xy 331.47 134.62) (xy 337.82 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5432c1c3-39a4-44ad-9e38-5985d4531a34")
+	)
+	(wire
+		(pts
 			(xy 140.97 30.48) (xy 149.86 30.48)
 		)
 		(stroke
@@ -3505,6 +4333,16 @@
 	)
 	(wire
 		(pts
+			(xy 337.82 129.54) (xy 337.82 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "594ae48d-f2ba-4824-a19d-af7ac068df6a")
+	)
+	(wire
+		(pts
 			(xy 105.41 53.34) (xy 115.57 53.34)
 		)
 		(stroke
@@ -3515,7 +4353,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 100.33) (xy 180.34 100.33)
+			(xy 144.78 100.33) (xy 175.26 100.33)
 		)
 		(stroke
 			(width 0)
@@ -3525,7 +4363,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 107.95) (xy 180.34 107.95)
+			(xy 144.78 107.95) (xy 175.26 107.95)
 		)
 		(stroke
 			(width 0)
@@ -3545,6 +4383,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 142.24) (xy 106.68 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f2a0da2-e35a-4a86-8033-f8f4d967b619")
+	)
+	(wire
+		(pts
 			(xy 119.38 100.33) (xy 119.38 97.79)
 		)
 		(stroke
@@ -3552,6 +4400,16 @@
 			(type default)
 		)
 		(uuid "6127fcc6-f5db-4e3f-a39f-5dba56ca5e95")
+	)
+	(wire
+		(pts
+			(xy 337.82 129.54) (xy 331.47 129.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62a61084-ac89-42a5-9b3f-3031305bceca")
 	)
 	(wire
 		(pts
@@ -3565,7 +4423,7 @@
 	)
 	(wire
 		(pts
-			(xy 140.97 58.42) (xy 151.13 58.42)
+			(xy 140.97 58.42) (xy 165.1 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3575,7 +4433,7 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 101.6) (xy 41.91 105.41)
+			(xy 41.91 101.6) (xy 41.91 102.87)
 		)
 		(stroke
 			(width 0)
@@ -3605,6 +4463,46 @@
 	)
 	(wire
 		(pts
+			(xy 323.85 82.55) (xy 312.42 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70e8a43d-b4e8-42b9-89b4-70e9c481f0fe")
+	)
+	(wire
+		(pts
+			(xy 312.42 76.2) (xy 323.85 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "72b20c8e-6679-46fd-a865-a21bbc03bd4c")
+	)
+	(wire
+		(pts
+			(xy 124.46 154.94) (xy 134.62 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73c396ea-fdd0-436f-8912-f4fa077774dc")
+	)
+	(wire
+		(pts
+			(xy 116.84 142.24) (xy 124.46 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "743ab17e-aa7e-4ed3-994b-048dc726df5f")
+	)
+	(wire
+		(pts
 			(xy 342.9 116.84) (xy 326.39 116.84)
 		)
 		(stroke
@@ -3612,6 +4510,16 @@
 			(type default)
 		)
 		(uuid "787af772-bf32-46d5-b6a7-3c408187cc9e")
+	)
+	(wire
+		(pts
+			(xy 340.36 82.55) (xy 340.36 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7930830c-a54a-4462-a446-7e7c61953852")
 	)
 	(wire
 		(pts
@@ -3625,7 +4533,7 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 45.72) (xy 194.31 49.53)
+			(xy 194.31 45.72) (xy 194.31 48.26)
 		)
 		(stroke
 			(width 0)
@@ -3645,6 +4553,26 @@
 	)
 	(wire
 		(pts
+			(xy 312.42 129.54) (xy 312.42 134.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "85459f20-9bab-4a28-b632-5e37aa94aaa7")
+	)
+	(wire
+		(pts
+			(xy 312.42 66.04) (xy 312.42 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88e1bde1-2c02-4e72-96bf-e2588ac17580")
+	)
+	(wire
+		(pts
 			(xy 144.78 97.79) (xy 151.13 97.79)
 		)
 		(stroke
@@ -3652,6 +4580,16 @@
 			(type default)
 		)
 		(uuid "89a9b1b7-155e-492e-b1f8-4a57d37de896")
+	)
+	(wire
+		(pts
+			(xy 86.36 142.24) (xy 88.9 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90f5f85a-d75a-46f2-b4f5-940acedfc400")
 	)
 	(wire
 		(pts
@@ -3675,6 +4613,16 @@
 	)
 	(wire
 		(pts
+			(xy 322.58 144.78) (xy 312.42 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "985b9571-67e2-4daa-936e-3254bf3482dd")
+	)
+	(wire
+		(pts
 			(xy 149.86 30.48) (xy 151.13 30.48)
 		)
 		(stroke
@@ -3685,13 +4633,23 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 110.49) (xy 323.85 119.38)
+			(xy 323.85 107.95) (xy 323.85 119.38)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9bb4f5c7-20a0-4ed0-bc28-b57709adae22")
+	)
+	(wire
+		(pts
+			(xy 323.85 105.41) (xy 318.77 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d73bf41-6c33-4a3b-a7d0-523f7693624f")
 	)
 	(wire
 		(pts
@@ -3705,6 +4663,16 @@
 	)
 	(wire
 		(pts
+			(xy 172.72 91.44) (xy 175.26 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9efea56f-3462-4659-a17c-7492abc7fdfb")
+	)
+	(wire
+		(pts
 			(xy 100.33 43.18) (xy 115.57 43.18)
 		)
 		(stroke
@@ -3712,6 +4680,36 @@
 			(type default)
 		)
 		(uuid "a0905dd2-01c1-4a06-8801-aa9416aca997")
+	)
+	(wire
+		(pts
+			(xy 157.48 115.57) (xy 162.56 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a0e57373-0089-4a65-beaf-a8556e6e8b3e")
+	)
+	(wire
+		(pts
+			(xy 312.42 76.2) (xy 312.42 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2680021-3b99-4d3e-a47a-779fe2124f4a")
+	)
+	(wire
+		(pts
+			(xy 58.42 116.84) (xy 41.91 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2a91ff8-6cc6-4283-935d-5da97bbe70b4")
 	)
 	(wire
 		(pts
@@ -3752,6 +4750,16 @@
 			(type default)
 		)
 		(uuid "b0a839e9-3d72-4a37-9cb2-e82da21733c6")
+	)
+	(wire
+		(pts
+			(xy 73.66 116.84) (xy 78.74 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b1eec3b0-1f73-4755-a9e7-66b433e3a28a")
 	)
 	(wire
 		(pts
@@ -3815,6 +4823,36 @@
 	)
 	(wire
 		(pts
+			(xy 337.82 134.62) (xy 337.82 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bd70d23a-e77b-4a36-92eb-ccf4cf833c97")
+	)
+	(wire
+		(pts
+			(xy 41.91 116.84) (xy 41.91 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1955789-8150-4c25-9162-3ab0884a221d")
+	)
+	(wire
+		(pts
+			(xy 312.42 134.62) (xy 312.42 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4dae142-2a43-4d8d-8ea7-19f24572261e")
+	)
+	(wire
+		(pts
 			(xy 363.22 99.06) (xy 372.11 99.06)
 		)
 		(stroke
@@ -3825,13 +4863,23 @@
 	)
 	(wire
 		(pts
-			(xy 318.77 110.49) (xy 323.85 110.49)
+			(xy 323.85 129.54) (xy 312.42 129.54)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c8dd8bbd-b78b-42b6-acf1-56cdcd2c1ee1")
+		(uuid "c733a8fc-23d9-43f2-8570-b28e3788346f")
+	)
+	(wire
+		(pts
+			(xy 175.26 91.44) (xy 175.26 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c88bb6ce-9c3a-4d30-9e78-f54163defba0")
 	)
 	(wire
 		(pts
@@ -3865,23 +4913,23 @@
 	)
 	(wire
 		(pts
-			(xy 323.85 93.98) (xy 323.85 102.87)
+			(xy 124.46 142.24) (xy 124.46 148.59)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "d1ce2d57-8a47-44d8-a090-6524a7882fa4")
+		(uuid "d5ef6706-5863-4022-bbb0-2489decc2753")
 	)
 	(wire
 		(pts
-			(xy 326.39 105.41) (xy 318.77 105.41)
+			(xy 318.77 102.87) (xy 326.39 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e204a75c-832a-49cb-9feb-9ae06171c8c0")
+		(uuid "de80ca55-8c86-4c83-8c6c-8575bd0a4858")
 	)
 	(wire
 		(pts
@@ -3895,6 +4943,16 @@
 	)
 	(wire
 		(pts
+			(xy 331.47 76.2) (xy 340.36 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7f17ecd-cdb6-4bb2-8e23-32477dee5149")
+	)
+	(wire
+		(pts
 			(xy 140.97 50.8) (xy 151.13 50.8)
 		)
 		(stroke
@@ -3902,6 +4960,16 @@
 			(type default)
 		)
 		(uuid "e992e5c3-72a7-4ade-a902-e637b7de87f0")
+	)
+	(wire
+		(pts
+			(xy 340.36 91.44) (xy 340.36 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed95d2ed-7786-43e5-bff7-96eda9a6aa87")
 	)
 	(wire
 		(pts
@@ -3935,6 +5003,26 @@
 	)
 	(wire
 		(pts
+			(xy 342.9 91.44) (xy 340.36 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efcabf29-51c8-4506-813b-87fd1c75115f")
+	)
+	(wire
+		(pts
+			(xy 318.77 110.49) (xy 326.39 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f24d8bed-28d5-43ae-ba73-f62e557cb068")
+	)
+	(wire
+		(pts
 			(xy 140.97 45.72) (xy 151.13 45.72)
 		)
 		(stroke
@@ -3955,7 +5043,27 @@
 	)
 	(wire
 		(pts
-			(xy 326.39 96.52) (xy 326.39 105.41)
+			(xy 340.36 66.04) (xy 332.74 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f70aec38-9d5c-4545-b1c5-d76f6a8e9862")
+	)
+	(wire
+		(pts
+			(xy 340.36 82.55) (xy 331.47 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fae4732e-1ee1-4ca6-b1aa-fd5847ab465c")
+	)
+	(wire
+		(pts
+			(xy 326.39 96.52) (xy 326.39 102.87)
 		)
 		(stroke
 			(width 0)
@@ -16024,7 +17132,7 @@
 		(uuid "0f0db69e-ba96-4254-9888-fc4c80b9f80d")
 	)
 	(label "P0.09"
-		(at 176.53 107.95 180)
+		(at 172.72 107.95 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -16064,7 +17172,7 @@
 		(uuid "3ce99df0-dca9-4b46-9d0b-16c82f7bc063")
 	)
 	(label "P0.10"
-		(at 176.53 100.33 180)
+		(at 172.72 100.33 180)
 		(effects
 			(font
 				(size 1.524 1.524)
@@ -16379,6 +17487,28 @@
 			)
 		)
 	)
+	(global_label "NFC1"
+		(shape input)
+		(at 165.1 58.42 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "5f864c61-0dbd-4a95-aa51-0b3a6d69906f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 174.56 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MOTOR1-B"
 		(shape input)
 		(at 100.33 33.02 180)
@@ -16533,6 +17663,28 @@
 			)
 		)
 	)
+	(global_label "RESET"
+		(shape input)
+		(at 78.74 116.84 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "980075bb-91cb-476f-bb9d-0b6671ea54b9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 88.4311 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MOTOR1-A"
 		(shape input)
 		(at 372.11 91.44 0)
@@ -16617,6 +17769,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "NFC2"
+		(shape input)
+		(at 156.21 55.88 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "d8dcc719-55a5-4274-838a-54fd93174a8b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 165.67 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -17606,6 +18780,83 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:CC0603JRNPO8BN561")
+		(at 167.64 115.57 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "13fb734e-8ad5-4b39-8333-bf0e14b0a454")
+		(property "Reference" "C14"
+			(at 167.64 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CC0603JRNPO8BN561"
+			(at 167.64 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0603"
+			(at 167.64 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603JRNPO8BN561_C519396.html"
+			(at 167.64 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C519396"
+			(at 167.64 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a7301b82-efa6-46b9-8858-2294c9179136")
+		)
+		(pin "2"
+			(uuid "80edd92f-c3b5-4434-8267-c56bcb266db7")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
 		(at 173.99 241.3 0)
 		(unit 1)
@@ -18138,6 +19389,82 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:CC0402KRX7R7BB104")
+		(at 317.5 29.21 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "2b83cddc-6a29-482d-9c95-1ea14cb9e55e")
+		(property "Reference" "C10"
+			(at 320.04 30.734 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CC0402KRX7R7BB104"
+			(at 317.5 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 317.5 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-16V_C60474.html"
+			(at 317.5 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 317.5 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 317.5 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a7b7b55d-b6b5-4b42-8b24-35c1d0e89ed1")
+		)
+		(pin "2"
+			(uuid "d9231671-b48b-4905-8169-4d83662bb343")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
 		(at 158.75 226.06 0)
 		(unit 1)
@@ -18209,6 +19536,82 @@
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
 					(reference "LED52")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:CL31A107MQHNNNE")
+		(at 327.66 129.54 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "330c00a3-4d42-4837-9aaa-e2b9e518a12f")
+		(property "Reference" "C5"
+			(at 330.2 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL31A107MQHNNNE"
+			(at 327.66 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C1206"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL31A107MQHNNNE_100uF-107-20-6-3V_C15008.html"
+			(at 327.66 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 327.66 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15008"
+			(at 327.66 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fde81db4-d365-4673-b7bd-d0ab49a59cd9")
+		)
+		(pin "2"
+			(uuid "8108cb4e-a336-474c-bc39-bc807c19e8ec")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C5")
 					(unit 1)
 				)
 			)
@@ -18851,6 +20254,83 @@
 			(project ""
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
 					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:CL31A107MQHNNNE")
+		(at 327.66 134.62 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3e4572d8-c006-4229-83fb-331896629297")
+		(property "Reference" "C6"
+			(at 329.946 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL31A107MQHNNNE"
+			(at 327.66 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C1206"
+			(at 327.66 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL31A107MQHNNNE_100uF-107-20-6-3V_C15008.html"
+			(at 327.66 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 327.66 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15008"
+			(at 327.66 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "87e57577-8ec6-48fb-bf38-882c9a7d4e14")
+		)
+		(pin "2"
+			(uuid "98bc5d70-1841-491d-8e8e-9e26c838726c")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C6")
 					(unit 1)
 				)
 			)
@@ -19617,7 +21097,7 @@
 	)
 	(symbol
 		(lib_id "nrfmicro-rescue:GND")
-		(at 41.91 105.41 0)
+		(at 41.91 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -19625,7 +21105,7 @@
 		(dnp no)
 		(uuid "538f6894-21b9-49fd-ad0c-e70a2c9568e8")
 		(property "Reference" "#PWR03"
-			(at 41.91 111.76 0)
+			(at 41.91 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19634,7 +21114,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 41.91 109.22 0)
+			(at 41.91 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19642,7 +21122,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 41.91 105.41 0)
+			(at 41.91 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19651,7 +21131,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 41.91 105.41 0)
+			(at 41.91 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19660,7 +21140,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 41.91 105.41 0)
+			(at 41.91 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19905,6 +21385,82 @@
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
 					(reference "LED40")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:CL31A107MQHNNNE")
+		(at 327.66 76.2 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5cae1a6a-f2d0-4848-802b-ae75f08994da")
+		(property "Reference" "C4"
+			(at 329.692 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL31A107MQHNNNE"
+			(at 327.66 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C1206"
+			(at 327.66 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL31A107MQHNNNE_100uF-107-20-6-3V_C15008.html"
+			(at 327.66 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 327.66 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15008"
+			(at 327.66 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "36e0c98b-3153-432f-ab04-dbb8e0352a3b")
+		)
+		(pin "2"
+			(uuid "0afe309f-b242-4a73-8916-8440cc72125b")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -21172,6 +22728,70 @@
 		)
 	)
 	(symbol
+		(lib_id "nrfmicro-rescue:GND")
+		(at 157.48 115.57 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "799992fd-cd81-4482-b853-e752a437012c")
+		(property "Reference" "#PWR09"
+			(at 151.13 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.908 115.57 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "532946cf-cb92-4bfa-ba80-81480578c4b4")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "#PWR09")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
 		(at 236.22 248.92 0)
 		(unit 1)
@@ -21480,6 +23100,83 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:CC0603JRNPO8BN561")
+		(at 167.64 91.44 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "85873f5d-ac74-46f3-a8eb-4704dac7946f")
+		(property "Reference" "C13"
+			(at 167.64 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CC0603JRNPO8BN561"
+			(at 167.64 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0603"
+			(at 167.64 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_YAGEO-CC0603JRNPO8BN561_C519396.html"
+			(at 167.64 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C519396"
+			(at 167.64 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "59c4af82-fa55-4691-8805-8b8d383ecf9c")
+		)
+		(pin "2"
+			(uuid "734b00e4-e3ff-44ed-bb92-ee7838c2eaee")
+		)
+		(instances
+			(project ""
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
 		(at 173.99 226.06 0)
 		(unit 1)
@@ -21705,6 +23402,83 @@
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
 					(reference "LED78")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:CL31A107MQHNNNE")
+		(at 327.66 82.55 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "8b0fb62a-b1d7-40b5-8790-62e011ec357d")
+		(property "Reference" "C7"
+			(at 329.946 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL31A107MQHNNNE"
+			(at 327.66 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C1206"
+			(at 327.66 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL31A107MQHNNNE_100uF-107-20-6-3V_C15008.html"
+			(at 327.66 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 327.66 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15008"
+			(at 327.66 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "54729345-c68d-4f1f-9ac2-26c5fda09324")
+		)
+		(pin "2"
+			(uuid "6c60f2e2-4b50-46e2-9840-c6a2cb843cf2")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C7")
 					(unit 1)
 				)
 			)
@@ -22220,6 +23994,70 @@
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
 					(reference "LED47")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nrfmicro-rescue:GND")
+		(at 312.42 87.63 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "9ce8654e-01e7-478e-a82c-7e84db058953")
+		(property "Reference" "#PWR07"
+			(at 312.42 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 312.42 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 312.42 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 312.42 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "26ee5da6-b908-41f3-a0bf-ece1858a0b01")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "#PWR07")
 					(unit 1)
 				)
 			)
@@ -23482,6 +25320,82 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:CC0402KRX7R7BB104")
+		(at 327.66 66.04 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "b8c096ed-7b06-4e77-8551-d8161f4e8e8e")
+		(property "Reference" "C8"
+			(at 330.2 67.564 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CC0402KRX7R7BB104"
+			(at 327.66 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 327.66 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-16V_C60474.html"
+			(at 327.66 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 327.66 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 327.66 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e9baf005-5f64-4db0-8205-976f21f13a2b")
+		)
+		(pin "2"
+			(uuid "80859aba-b101-4909-a825-7a810a8cb8b7")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
 		(at 251.46 233.68 0)
 		(unit 1)
@@ -23810,6 +25724,70 @@
 		)
 	)
 	(symbol
+		(lib_id "nrfmicro-rescue:GND")
+		(at 86.36 142.24 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "bd92d95a-ba49-40de-8b18-03e814e9cbe2")
+		(property "Reference" "#PWR010"
+			(at 80.01 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 81.026 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 86.36 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 86.36 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7bd050e4-9de6-4dec-8a9a-ec391d9e2e42")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "#PWR010")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
 		(at 265.43 218.44 0)
 		(unit 1)
@@ -24119,6 +26097,82 @@
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
 					(reference "LED4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:CC0402KRX7R7BB104")
+		(at 217.17 119.38 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "c3c1b4b4-0216-4eef-a23b-3ebf76fa5e0f")
+		(property "Reference" "C11"
+			(at 219.71 120.904 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CC0402KRX7R7BB104"
+			(at 217.17 115.57 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 217.17 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-16V_C60474.html"
+			(at 217.17 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 217.17 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 217.17 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "eaaa7e97-8810-47ae-b00b-e43a0c94183b")
+		)
+		(pin "2"
+			(uuid "df4d2570-570d-49f8-a3c2-43b6870370df")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C11")
 					(unit 1)
 				)
 			)
@@ -25394,6 +27448,134 @@
 		)
 	)
 	(symbol
+		(lib_id "nrfmicro-rescue:GND")
+		(at 312.42 149.86 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d6391750-ffd5-4b9e-9c08-1c98ce92fce3")
+		(property "Reference" "#PWR06"
+			(at 312.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 312.42 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 312.42 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 312.42 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 312.42 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9cb4554f-69c0-4b68-bafa-7754c44f7eee")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "#PWR06")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nrfmicro-rescue:GND")
+		(at 157.48 91.44 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d89be0bb-0c3c-4050-b1c2-46392ff9233b")
+		(property "Reference" "#PWR08"
+			(at 151.13 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 152.908 91.44 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 157.48 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 157.48 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 157.48 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "68df9f82-94ba-4454-8d84-3d7c8cc1119d")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "#PWR08")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
 		(at 97.79 256.54 0)
 		(unit 1)
@@ -25531,6 +27713,83 @@
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
 					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:CC0402KRX7R7BB104")
+		(at 327.66 144.78 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "dc5c24a3-59b1-402c-9f86-4febb65119de")
+		(property "Reference" "C9"
+			(at 329.946 146.304 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CC0402KRX7R7BB104"
+			(at 327.66 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 327.66 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-16V_C60474.html"
+			(at 327.66 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 327.66 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 327.66 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e12e8c5c-0e54-4e16-89c0-d14771c1c1cf")
+		)
+		(pin "2"
+			(uuid "135029fe-99eb-41b6-ae88-403bf21ea588")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C9")
 					(unit 1)
 				)
 			)
@@ -26993,6 +29252,82 @@
 		)
 	)
 	(symbol
+		(lib_id "easyeda2kicad:CC0402KRX7R7BB104")
+		(at 111.76 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f8367a19-746c-47f6-b2fd-bd72d55269ef")
+		(property "Reference" "C12"
+			(at 114.3 143.764 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CC0402KRX7R7BB104"
+			(at 111.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0402"
+			(at 111.76 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_100nF-104-10-16V_C60474.html"
+			(at 111.76 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C60474"
+			(at 111.76 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "1f1be62f-d965-4234-b733-eb5b46f1484f")
+		)
+		(pin "2"
+			(uuid "417d501c-6a70-45e0-b76f-98d96e9fee26")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 180.34 100.33 270)
 		(unit 1)
@@ -27053,6 +29388,147 @@
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
 					(reference "TP2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "nrfmicro-rescue:GND")
+		(at 41.91 118.11 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f9f8d175-1fee-4324-8f81-aef552ff853b")
+		(property "Reference" "#PWR011"
+			(at 41.91 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 41.91 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 41.91 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 41.91 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 41.91 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "eea1949f-d036-45dd-b9be-3c2833e5c783")
+		)
+		(instances
+			(project "tikk-hw"
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "easyeda2kicad:CL21A106KAYNNNE")
+		(at 111.76 148.59 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "fa3b670d-23c7-4764-8bb9-e82530d51b95")
+		(property "Reference" "C2"
+			(at 114.554 150.368 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "CL21A106KAYNNNE"
+			(at 111.76 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "easyeda2kicad:C0805"
+			(at 111.76 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_SAMSUNG_CL21A106KAYNNNE_10uF-106-10-25V_C15850.html"
+			(at 111.76 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 111.76 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part" "C15850"
+			(at 111.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "da26cfc5-ee33-4cc6-a2ab-803d8db93dec")
+		)
+		(pin "2"
+			(uuid "c5b5b5a6-0045-42f0-b7b2-29d20e8ea9e0")
+		)
+		(instances
+			(project ""
+				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
+					(reference "C2")
 					(unit 1)
 				)
 			)
