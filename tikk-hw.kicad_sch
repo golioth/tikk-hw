@@ -4160,16 +4160,46 @@
 		(uuid "06b104a5-7248-400e-8acb-e36ef13aab0e")
 	)
 	(junction
+		(at 292.1 325.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "06dd67a6-99f1-47a7-b8b1-74245c45ce0c")
+	)
+	(junction
+		(at 278.13 311.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "07fd896b-5ca3-4127-9bb3-0408cfaeaec6")
+	)
+	(junction
+		(at 299.72 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "08db7b8b-202d-44e5-ada3-7d22e14f2039")
+	)
+	(junction
 		(at 275.59 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a9ae5a1-f553-4c0a-90c9-ae98aa8e9b17")
 	)
 	(junction
+		(at 247.65 355.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0bc8a562-566e-4643-b3c7-7d0aad17d586")
+	)
+	(junction
 		(at 127 355.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0e8e9405-7ede-42e9-8e12-7b1f27fb5973")
+	)
+	(junction
+		(at 270.51 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "11fc4113-a695-4003-9a7d-d0fd1e282acb")
 	)
 	(junction
 		(at 83.82 311.15)
@@ -4184,10 +4214,34 @@
 		(uuid "13dd8705-ca7f-4fd8-82e1-0dcf87062604")
 	)
 	(junction
+		(at 306.07 355.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "16dafee3-111a-4361-adc1-bf6a66ab95f9")
+	)
+	(junction
 		(at 52.07 325.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "174037fa-8728-4561-b275-2360b44861e3")
+	)
+	(junction
+		(at 215.9 325.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "179d0498-9e80-4ddf-bc81-44fc09cb8cd5")
+	)
+	(junction
+		(at 232.41 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1b6b8201-2330-457e-9816-9659f3d6eb32")
+	)
+	(junction
+		(at 270.51 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1daebade-f016-4924-99fa-cbecec032a72")
 	)
 	(junction
 		(at 76.2 300.99)
@@ -4196,10 +4250,28 @@
 		(uuid "1e406ec6-ceb9-41ee-bdf2-cfae608900e7")
 	)
 	(junction
+		(at 278.13 340.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f2fd6bf-aab8-4c74-a3a5-98c04a5a72ba")
+	)
+	(junction
 		(at 105.41 345.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1ff82f78-c945-4ab1-a56d-ef32e7376ee7")
+	)
+	(junction
+		(at 270.51 300.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20c64fe2-d928-40eb-854d-06150c7cb747")
+	)
+	(junction
+		(at 215.9 355.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "21689f44-a04b-4667-9086-5c504d55c951")
 	)
 	(junction
 		(at 91.44 373.38)
@@ -4212,6 +4284,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "226a4e82-25f0-4e6e-b22f-3383c3ee36d8")
+	)
+	(junction
+		(at 306.07 340.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "261fb0ab-34ae-453b-ad4d-2694b681a774")
 	)
 	(junction
 		(at 99.06 369.57)
@@ -4250,10 +4328,34 @@
 		(uuid "3036e80a-646a-40a1-9725-2fdf31031893")
 	)
 	(junction
+		(at 232.41 340.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "317b5764-bcf2-4838-a20a-8ec51760b547")
+	)
+	(junction
 		(at 76.2 345.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "32dde745-0aaa-4116-955b-2cc3db1fbd17")
+	)
+	(junction
+		(at 278.13 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "33173903-7207-40fb-8dfd-17543ea1e174")
+	)
+	(junction
+		(at 232.41 369.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "33792fef-1a2a-4094-8159-6e43f92af60a")
+	)
+	(junction
+		(at 224.79 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "33f5034a-0fda-482f-9261-1af417e338b1")
 	)
 	(junction
 		(at 83.82 369.57)
@@ -4268,10 +4370,28 @@
 		(uuid "362c62ae-2585-4bb1-b41f-161e9e0a5646")
 	)
 	(junction
+		(at 285.75 345.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37694b27-5ae4-460b-81d7-c8b94a421505")
+	)
+	(junction
+		(at 255.27 330.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3917d36f-8381-4a07-bdfc-7c9e3d8a95b1")
+	)
+	(junction
 		(at 336.55 118.11)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "39e1ee0b-8736-4704-a377-505c82bedaba")
+	)
+	(junction
+		(at 224.79 330.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3c61d0b6-f6af-4d20-9ec2-8fa231c108e6")
 	)
 	(junction
 		(at 170.18 387.35)
@@ -4286,16 +4406,40 @@
 		(uuid "3e6eee8c-3e14-4bb3-bb81-94b3677f6041")
 	)
 	(junction
+		(at 255.27 373.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3ee0722d-8522-41c8-993f-40651be7d2a1")
+	)
+	(junction
+		(at 247.65 330.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "430f0507-b1f1-4fb8-a2e2-fc828dfb2302")
+	)
+	(junction
 		(at 119.38 283.21)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4329ac15-a53e-43a3-a9d4-31a33611b440")
 	)
 	(junction
+		(at 255.27 300.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "43721552-a3da-40bb-b6d0-ddb5d5406804")
+	)
+	(junction
 		(at 140.97 373.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43c147e7-e6f5-4f19-85b5-fe1fb83b31ae")
+	)
+	(junction
+		(at 240.03 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "44b58ca1-ea7f-4c57-957e-d985d1fbb432")
 	)
 	(junction
 		(at 99.06 355.6)
@@ -4310,6 +4454,12 @@
 		(uuid "461790f2-29ae-41d3-84c0-a56b61257362")
 	)
 	(junction
+		(at 195.58 311.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "461e606e-7cb1-40af-a3bc-63041e2bd067")
+	)
+	(junction
 		(at 156.21 325.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4320,6 +4470,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "47350d5a-eb40-4977-8f18-5996a4cae885")
+	)
+	(junction
+		(at 240.03 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4ad674e0-eed3-49b7-bc45-4d958e0e37a2")
 	)
 	(junction
 		(at 452.12 135.89)
@@ -4334,6 +4490,12 @@
 		(uuid "4c81ed7c-1197-45c2-8b4d-cb14cbe04980")
 	)
 	(junction
+		(at 262.89 325.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4c9bfe88-9bf4-42f5-a2bb-26a7fc27054d")
+	)
+	(junction
 		(at 91.44 345.44)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4346,16 +4508,34 @@
 		(uuid "4d9ea068-bf14-417d-9ee0-ea39368bafff")
 	)
 	(junction
+		(at 240.03 300.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4f01b192-524e-49bf-978f-dcdf04c989f4")
+	)
+	(junction
 		(at 140.97 340.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4f8bd3e3-3abf-44f3-8567-0c8e10eb8386")
 	)
 	(junction
+		(at 208.28 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50c9a50d-87be-4ef1-b9ff-967f6ea486c3")
+	)
+	(junction
 		(at 76.2 314.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "51d26144-6449-45d6-b90c-88321d4cea7f")
+	)
+	(junction
+		(at 232.41 311.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "53db8fd8-0b49-4f50-84d9-60f24b844c11")
 	)
 	(junction
 		(at 105.41 300.99)
@@ -4388,6 +4568,12 @@
 		(uuid "58bafa62-2700-47ad-b5d1-c727641436ee")
 	)
 	(junction
+		(at 255.27 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5a364219-0d39-4944-b6a1-2a9750684be5")
+	)
+	(junction
 		(at 133.35 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4410,6 +4596,30 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5ca66aec-1b7c-481b-9ef5-82ef957a7dbc")
+	)
+	(junction
+		(at 224.79 300.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "60962a5e-ed23-4ce6-8a12-675f79140fe7")
+	)
+	(junction
+		(at 306.07 311.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "64ef1447-82fa-4667-8849-6584f7249cc2")
+	)
+	(junction
+		(at 270.51 330.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6536f8fb-e7f9-416c-9e88-86f00c307d8d")
+	)
+	(junction
+		(at 262.89 369.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65d02165-1483-4ecf-85cb-c4fb2379cd81")
 	)
 	(junction
 		(at 426.72 151.13)
@@ -4448,10 +4658,22 @@
 		(uuid "686c86c5-f8ad-44ce-a9aa-0dfa7309a904")
 	)
 	(junction
+		(at 292.1 355.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "68d9357d-70a9-4c47-ae43-1f224a12209f")
+	)
+	(junction
 		(at 68.58 300.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b1bd6ee-25ce-4d72-9866-8209066bb40a")
+	)
+	(junction
+		(at 247.65 311.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6bb60b71-8206-4a1c-8237-5d655b99cde1")
 	)
 	(junction
 		(at 105.41 314.96)
@@ -4472,6 +4694,18 @@
 		(uuid "702daf2b-9b5f-44b1-9ee9-8b5f88ac6acc")
 	)
 	(junction
+		(at 247.65 369.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "70891db0-2999-47ea-8b5f-8a1207e1fb71")
+	)
+	(junction
+		(at 285.75 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7168dc9e-3d88-4a27-a663-25bd182e7383")
+	)
+	(junction
 		(at 452.12 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4482,6 +4716,30 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "72daec6d-6e81-4f7b-ba6f-702af4a924dc")
+	)
+	(junction
+		(at 240.03 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7383929d-76df-469c-8247-9d1fcf00b9fd")
+	)
+	(junction
+		(at 292.1 373.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "756ec453-1f75-4331-be74-ff41d3245c75")
+	)
+	(junction
+		(at 255.27 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "76896259-f744-46e5-9935-33050b88ad22")
+	)
+	(junction
+		(at 285.75 330.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "79896444-8051-422c-b348-7c9a507d5990")
 	)
 	(junction
 		(at 170.18 355.6)
@@ -4502,6 +4760,12 @@
 		(uuid "7e1c071c-7652-480a-9fdd-c31bcaac977e")
 	)
 	(junction
+		(at 232.41 355.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e97106f-4d33-4acc-88cf-d3a49646bfa0")
+	)
+	(junction
 		(at 119.38 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4520,10 +4784,28 @@
 		(uuid "8181adc4-7bf3-40a0-9cba-237f13209e68")
 	)
 	(junction
+		(at 215.9 300.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "828e60d6-a66d-4a66-bf21-e202cc7aaf87")
+	)
+	(junction
+		(at 292.1 369.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8351e16f-83ca-4c85-b40f-a761948f90ce")
+	)
+	(junction
 		(at 83.82 355.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "83c6f997-def3-4767-942b-95f7b418ec39")
+	)
+	(junction
+		(at 224.79 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "863472d3-dd49-4c19-b26f-d4cc6cd44f95")
 	)
 	(junction
 		(at 119.38 300.99)
@@ -4538,6 +4820,24 @@
 		(uuid "8810e734-105e-433a-a7f5-46c2c16ead83")
 	)
 	(junction
+		(at 262.89 311.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "88433dc4-c79e-41e6-8c83-7998a1540e8e")
+	)
+	(junction
+		(at 262.89 340.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "89a1eb11-0c92-4218-a426-920ac3ef175e")
+	)
+	(junction
+		(at 240.03 330.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8a208cc1-001f-4bd0-a228-d0e501cfa77a")
+	)
+	(junction
 		(at 60.96 314.96)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4550,6 +4850,12 @@
 		(uuid "8b6bc432-00a3-47a7-b734-1d6962db29c1")
 	)
 	(junction
+		(at 224.79 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8b6dbc69-7d23-4d58-82f6-d36c3d34bd67")
+	)
+	(junction
 		(at 426.72 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4560,6 +4866,18 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8c09eb33-36d6-4fa5-9990-65d8e913fc03")
+	)
+	(junction
+		(at 278.13 325.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8d33a1a2-0b9f-457f-96c1-9127cedff6a0")
+	)
+	(junction
+		(at 299.72 330.2)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "8ec3b2bc-913c-4f80-9876-e85c49007ba7")
 	)
 	(junction
 		(at 113.03 369.57)
@@ -4586,10 +4904,22 @@
 		(uuid "976130a5-f1c2-4c1c-8197-8bfe3e558dd0")
 	)
 	(junction
+		(at 299.72 345.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9891046d-9711-4888-91e6-adfdf09d7c0c")
+	)
+	(junction
 		(at 147.32 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9b55b287-3d8e-48e2-bc53-6d02fa584713")
+	)
+	(junction
+		(at 299.72 300.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9cbd9388-34ad-46d5-9036-808d0ba0e6f0")
 	)
 	(junction
 		(at 113.03 311.15)
@@ -4610,6 +4940,12 @@
 		(uuid "a44f2337-0e42-4915-8116-48befe7b4a77")
 	)
 	(junction
+		(at 299.72 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4dbb5d0-7306-4949-898b-5859f97573fd")
+	)
+	(junction
 		(at 119.38 373.38)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4626,6 +4962,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a7778b87-6403-4b91-8a71-57b4549119bb")
+	)
+	(junction
+		(at 306.07 325.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a7a2d32d-9d59-4171-bf9e-8291110a9a48")
+	)
+	(junction
+		(at 285.75 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa43df37-6deb-42c6-ba7b-8602dfeb60cc")
+	)
+	(junction
+		(at 262.89 345.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aa5237c6-81eb-4434-b082-df4e16a7dfa3")
 	)
 	(junction
 		(at 91.44 359.41)
@@ -4646,16 +5000,64 @@
 		(uuid "ad8adbce-ed8e-4376-bdd4-509c38748f30")
 	)
 	(junction
+		(at 285.75 300.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "aea325b3-37d6-410d-9aa1-0af25bcac5fd")
+	)
+	(junction
 		(at 133.35 300.99)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b5360bc4-d570-4943-a9be-823db9fd753e")
 	)
 	(junction
+		(at 285.75 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b6fa9168-b32a-44ea-a206-dc26b098fb75")
+	)
+	(junction
+		(at 299.72 359.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b7224694-3184-4466-9469-3b522841395b")
+	)
+	(junction
+		(at 306.07 369.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b7e13de1-7be2-440f-996b-d43ba1db42a3")
+	)
+	(junction
+		(at 195.58 325.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b811bf15-c995-4e41-a6e7-013814262888")
+	)
+	(junction
+		(at 270.51 287.02)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b8655dd3-147f-4f00-b07e-cc788767da3a")
+	)
+	(junction
 		(at 452.12 140.97)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b9070b06-03ad-44e4-b3d0-6bd8bd763e92")
+	)
+	(junction
+		(at 306.07 389.89)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b9fc5918-5a38-43d1-b6a9-4eb7d02619ea")
+	)
+	(junction
+		(at 270.51 373.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bc2d7a59-de8d-4866-9d94-30f6a50c91b5")
 	)
 	(junction
 		(at 426.72 82.55)
@@ -4682,10 +5084,28 @@
 		(uuid "c25035d3-c140-427a-b8ed-d30b9f0462c3")
 	)
 	(junction
+		(at 255.27 314.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c440263d-cbc5-4244-bb2b-2a4b885dc8e9")
+	)
+	(junction
 		(at 113.03 325.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c4432516-1537-40eb-a5ea-94360fddc07a")
+	)
+	(junction
+		(at 299.72 373.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c596397b-c1f9-4e2c-be2f-cf77b10f79a0")
+	)
+	(junction
+		(at 224.79 373.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c6f847b3-ca5a-4a47-afb8-6810e02ea3f0")
 	)
 	(junction
 		(at 355.6 55.88)
@@ -4700,10 +5120,40 @@
 		(uuid "c78babc3-de0c-4e4b-8220-dd86c7f08caa")
 	)
 	(junction
+		(at 292.1 311.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c79156a3-e459-4cc9-8191-665dee692d02")
+	)
+	(junction
 		(at 127 325.12)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c9269381-b493-48d9-8df5-6d6a3138cd53")
+	)
+	(junction
+		(at 240.03 345.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c926996d-5bf5-49b7-b1b2-4c88a6a873b6")
+	)
+	(junction
+		(at 292.1 340.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c9adcaf7-6579-4bab-b3b1-721c0866c73b")
+	)
+	(junction
+		(at 224.79 345.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cd4f9834-faa1-4e27-9967-0cf9035e3432")
+	)
+	(junction
+		(at 195.58 369.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "cff2fdb0-2c14-4946-b71a-22ed2294cee3")
 	)
 	(junction
 		(at 133.35 345.44)
@@ -4778,6 +5228,24 @@
 		(uuid "ddfdb362-d29c-4523-bb2a-21d488b0f6db")
 	)
 	(junction
+		(at 270.51 345.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "def3abee-e91e-460b-a009-8159f7bcecdf")
+	)
+	(junction
+		(at 278.13 355.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1be9c8e-5357-45ac-9f91-d5c4bdb5e9c0")
+	)
+	(junction
+		(at 240.03 373.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e26a5a3c-9487-4305-bc2e-480a2c457774")
+	)
+	(junction
 		(at 127 359.41)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4790,6 +5258,12 @@
 		(uuid "e92bb6a3-fe92-4a31-bfbd-05037018d205")
 	)
 	(junction
+		(at 247.65 325.12)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ea548dcd-da02-43d5-ad20-472e3acf599f")
+	)
+	(junction
 		(at 170.18 369.57)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4800,6 +5274,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ef818e43-fabd-4342-adff-bbf17a9c1424")
+	)
+	(junction
+		(at 195.58 355.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f0606ff9-a5c3-4314-9a24-a692c2b73f42")
 	)
 	(junction
 		(at 133.35 283.21)
@@ -4826,6 +5306,36 @@
 		(uuid "f436f84a-a936-46b9-aa5d-dedc6c58c8e0")
 	)
 	(junction
+		(at 285.75 373.38)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f6cd4df4-9776-4802-9d69-3915b57f5b8b")
+	)
+	(junction
+		(at 195.58 340.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f80dd444-ea74-4e00-93f9-4f3cf7941f1e")
+	)
+	(junction
+		(at 255.27 345.44)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb48bd1f-7e67-496e-8065-503ed844bb06")
+	)
+	(junction
+		(at 215.9 340.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fb8fed56-25fe-4d69-af39-d13f0d117338")
+	)
+	(junction
+		(at 215.9 369.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fcb24ba9-3a17-42dc-a481-1441561ae95d")
+	)
+	(junction
 		(at 68.58 325.12)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4847,15 +5357,6 @@
 		(at 508 232.41)
 		(uuid "acc3a6c7-c93b-4750-bdf9-c43805ef52b1")
 	)
-	(bus_entry
-		(at 298.45 340.36)
-		(size 2.54 2.54)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1012d599-9d8e-4035-8f4d-66fb543b9e28")
-	)
 	(wire
 		(pts
 			(xy 140.97 311.15) (xy 133.35 311.15)
@@ -4868,6 +5369,16 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 297.18) (xy 285.75 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00923635-7e62-41f1-ab2d-c47bacfdf4d7")
+	)
+	(wire
+		(pts
 			(xy 60.96 314.96) (xy 76.2 314.96)
 		)
 		(stroke
@@ -4875,6 +5386,16 @@
 			(type default)
 		)
 		(uuid "00d15e21-e52d-4c54-9397-61b75514db38")
+	)
+	(wire
+		(pts
+			(xy 278.13 297.18) (xy 278.13 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00dc47f9-59ab-44c8-a953-c170a13ed448")
 	)
 	(wire
 		(pts
@@ -4898,6 +5419,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 325.12) (xy 299.72 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0429e135-0e13-4f86-b1ee-b6ba6a69d1e1")
+	)
+	(wire
+		(pts
 			(xy 290.83 190.5) (xy 295.91 190.5)
 		)
 		(stroke
@@ -4905,6 +5436,26 @@
 			(type default)
 		)
 		(uuid "0467d9d2-1aa8-44cc-9f39-181f8c088a3b")
+	)
+	(wire
+		(pts
+			(xy 232.41 314.96) (xy 232.41 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "04bc8229-c866-46bd-8787-2d6c60e38dd5")
+	)
+	(wire
+		(pts
+			(xy 247.65 311.15) (xy 247.65 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "061a0340-66c7-4f96-ab9b-e5de8ee8c721")
 	)
 	(wire
 		(pts
@@ -4958,16 +5509,6 @@
 	)
 	(wire
 		(pts
-			(xy 208.28 330.2) (xy 208.28 325.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "08b895f4-b182-4ecc-b01a-cbe2477ee226")
-	)
-	(wire
-		(pts
 			(xy 133.35 359.41) (xy 147.32 359.41)
 		)
 		(stroke
@@ -4995,6 +5536,16 @@
 			(type default)
 		)
 		(uuid "0a7e6615-6d1b-4b1f-a592-5b50931f4587")
+	)
+	(wire
+		(pts
+			(xy 299.72 330.2) (xy 320.04 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ac55908-2d42-4579-8700-9283b0773535")
 	)
 	(wire
 		(pts
@@ -5078,6 +5629,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 359.41) (xy 299.72 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0ec0912d-9673-4d52-9b01-f97f98f61007")
+	)
+	(wire
+		(pts
 			(xy 452.12 111.76) (xy 452.12 120.65)
 		)
 		(stroke
@@ -5085,6 +5646,16 @@
 			(type default)
 		)
 		(uuid "0eed79d0-1cc2-4645-9233-619eca8f1ed3")
+	)
+	(wire
+		(pts
+			(xy 195.58 369.57) (xy 208.28 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "101aeb36-2d85-4513-b7e1-593e3d30cc43")
 	)
 	(wire
 		(pts
@@ -5138,6 +5709,26 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 314.96) (xy 240.03 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12ed0790-4ba8-47d8-8540-b98f84d56bf2")
+	)
+	(wire
+		(pts
+			(xy 240.03 287.02) (xy 224.79 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "133a7053-d571-46a9-b2ef-ee2101ea8d71")
+	)
+	(wire
+		(pts
 			(xy 266.7 55.88) (xy 276.86 55.88)
 		)
 		(stroke
@@ -5145,6 +5736,26 @@
 			(type default)
 		)
 		(uuid "1347e770-43d0-4903-a3d3-976ef41eab74")
+	)
+	(wire
+		(pts
+			(xy 292.1 369.57) (xy 292.1 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1387fe64-10a0-4c74-91e2-eb79f5f57232")
+	)
+	(wire
+		(pts
+			(xy 255.27 300.99) (xy 270.51 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "138ac2f2-3ab7-456c-8f4c-890fbffe1fb0")
 	)
 	(wire
 		(pts
@@ -5158,6 +5769,26 @@
 	)
 	(wire
 		(pts
+			(xy 318.77 389.89) (xy 306.07 389.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1431935b-ab22-4136-9daf-9af0aa75ecdd")
+	)
+	(wire
+		(pts
+			(xy 255.27 345.44) (xy 262.89 345.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14403102-e29e-4974-a4ab-0bace9d2edbd")
+	)
+	(wire
+		(pts
 			(xy 336.55 118.11) (xy 341.63 118.11)
 		)
 		(stroke
@@ -5165,6 +5796,36 @@
 			(type default)
 		)
 		(uuid "146d528b-d8ff-4bcc-8e00-e5005bd7ab74")
+	)
+	(wire
+		(pts
+			(xy 255.27 330.2) (xy 270.51 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14887219-25b9-46b6-9bb0-29df379fd7a9")
+	)
+	(wire
+		(pts
+			(xy 247.65 355.6) (xy 255.27 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14aeffb2-8af7-4299-a230-8598730b97ff")
+	)
+	(wire
+		(pts
+			(xy 292.1 340.36) (xy 285.75 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14d125d5-efa8-462a-986e-25e5225695c3")
 	)
 	(wire
 		(pts
@@ -5258,6 +5919,26 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 369.57) (xy 255.27 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18fbf1e8-cf67-492b-8f0f-f17e4e6635d9")
+	)
+	(wire
+		(pts
+			(xy 195.58 355.6) (xy 195.58 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1907e539-20dc-4af6-ab02-f81adb5b5b9e")
+	)
+	(wire
+		(pts
 			(xy 452.12 120.65) (xy 452.12 135.89)
 		)
 		(stroke
@@ -5295,6 +5976,16 @@
 			(type default)
 		)
 		(uuid "1acfe906-d926-4855-a399-897ed97e76a7")
+	)
+	(wire
+		(pts
+			(xy 208.28 314.96) (xy 224.79 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b51460a-bb05-4bf0-92c4-650baea8c76f")
 	)
 	(wire
 		(pts
@@ -5378,6 +6069,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 330.2) (xy 247.65 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2011f434-4902-4c5c-8e6e-9314714ae823")
+	)
+	(wire
+		(pts
 			(xy 311.15 38.1) (xy 355.6 38.1)
 		)
 		(stroke
@@ -5428,6 +6129,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 311.15) (xy 224.79 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24e27310-baf6-4d02-b572-1ed16683d4de")
+	)
+	(wire
+		(pts
 			(xy 302.26 50.8) (xy 350.52 50.8)
 		)
 		(stroke
@@ -5435,6 +6146,26 @@
 			(type default)
 		)
 		(uuid "252b72f6-3e8f-4c2c-8f8e-aadfde6018e4")
+	)
+	(wire
+		(pts
+			(xy 292.1 311.15) (xy 285.75 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "252d523e-5615-4311-ac3c-cdba6725992f")
+	)
+	(wire
+		(pts
+			(xy 270.51 287.02) (xy 255.27 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "254a7bd9-0d01-4eb1-b1a7-a760694d485a")
 	)
 	(wire
 		(pts
@@ -5478,6 +6209,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 311.15) (xy 278.13 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "26ad588f-3795-48f9-926b-fd793e127ce8")
+	)
+	(wire
+		(pts
 			(xy 91.44 345.44) (xy 105.41 345.44)
 		)
 		(stroke
@@ -5485,6 +6226,16 @@
 			(type default)
 		)
 		(uuid "26f54012-da63-49c3-9c67-fec1a3ef07ef")
+	)
+	(wire
+		(pts
+			(xy 270.51 373.38) (xy 285.75 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2742eb65-8227-468b-ae9e-d69acc64eeee")
 	)
 	(wire
 		(pts
@@ -5538,6 +6289,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 297.18) (xy 215.9 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b4641c5-2ab7-40d4-8c4b-632f5322277b")
+	)
+	(wire
+		(pts
 			(xy 68.58 369.57) (xy 68.58 388.62)
 		)
 		(stroke
@@ -5588,6 +6349,16 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 287.02) (xy 240.03 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e1284b5-e957-449d-8e44-82349fd23b84")
+	)
+	(wire
+		(pts
 			(xy 426.72 88.9) (xy 426.72 93.98)
 		)
 		(stroke
@@ -5595,6 +6366,16 @@
 			(type default)
 		)
 		(uuid "2e4c6ec8-322a-4bfe-b8da-a1a12cd22c7c")
+	)
+	(wire
+		(pts
+			(xy 215.9 300.99) (xy 215.9 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2eef03c1-80c1-4e1c-b7ef-b287920f9ee8")
 	)
 	(wire
 		(pts
@@ -5628,6 +6409,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 325.12) (xy 224.79 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30ae02e5-10b6-4cf3-87ec-684e625ad1bb")
+	)
+	(wire
+		(pts
 			(xy 127 297.18) (xy 127 311.15)
 		)
 		(stroke
@@ -5635,6 +6426,26 @@
 			(type default)
 		)
 		(uuid "30b5084b-d7b2-4794-b618-1b7d2340dbbe")
+	)
+	(wire
+		(pts
+			(xy 306.07 369.57) (xy 299.72 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30fd954e-6dcf-4b6c-883e-097f710f1c19")
+	)
+	(wire
+		(pts
+			(xy 299.72 314.96) (xy 320.04 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31500039-ebff-432c-bf4d-be6e461886be")
 	)
 	(wire
 		(pts
@@ -5648,6 +6459,46 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 300.99) (xy 215.9 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3191b83b-84df-4a32-843b-3bcb41166d95")
+	)
+	(wire
+		(pts
+			(xy 306.07 297.18) (xy 306.07 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31c8aca1-9dfd-4770-b4ec-ca15d1d35654")
+	)
+	(wire
+		(pts
+			(xy 262.89 325.12) (xy 262.89 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "321bce9d-2b82-4abc-a9d2-2dc3cf568079")
+	)
+	(wire
+		(pts
+			(xy 240.03 297.18) (xy 247.65 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "322acb37-54cc-4991-864c-047ebc5b5ecd")
+	)
+	(wire
+		(pts
 			(xy 99.06 325.12) (xy 99.06 330.2)
 		)
 		(stroke
@@ -5658,6 +6509,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 300.99) (xy 240.03 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "332d665a-0a0c-4d6b-bcd0-68a4d02227bb")
+	)
+	(wire
+		(pts
 			(xy 162.56 340.36) (xy 170.18 340.36)
 		)
 		(stroke
@@ -5665,6 +6526,16 @@
 			(type default)
 		)
 		(uuid "3406e143-94ba-4682-9518-4fcce2c8cbe1")
+	)
+	(wire
+		(pts
+			(xy 247.65 330.2) (xy 255.27 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "343882a9-3ec6-46c9-8c51-57e3e1fcfe96")
 	)
 	(wire
 		(pts
@@ -5688,6 +6559,16 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 345.44) (xy 299.72 345.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3546378e-4275-4094-a20b-86b40a6951d6")
+	)
+	(wire
+		(pts
 			(xy 336.55 125.73) (xy 334.01 125.73)
 		)
 		(stroke
@@ -5705,6 +6586,16 @@
 			(type default)
 		)
 		(uuid "36e08479-566d-40a4-ab57-66d09d88dcdb")
+	)
+	(wire
+		(pts
+			(xy 292.1 373.38) (xy 299.72 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3729729b-7839-49ad-a82e-1da5ecf018ba")
 	)
 	(wire
 		(pts
@@ -5748,6 +6639,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 355.6) (xy 224.79 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a1b1f6a-d446-4589-8733-962d0337a4f7")
+	)
+	(wire
+		(pts
 			(xy 473.71 128.27) (xy 477.52 128.27)
 		)
 		(stroke
@@ -5755,6 +6656,16 @@
 			(type default)
 		)
 		(uuid "3ae42777-b81a-47d3-84e4-7c90ca19d268")
+	)
+	(wire
+		(pts
+			(xy 285.75 373.38) (xy 292.1 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bb38d63-1968-4903-ab37-4f2403023c27")
 	)
 	(wire
 		(pts
@@ -5778,6 +6689,26 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 359.41) (xy 285.75 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3eabb6c6-aae0-4935-ad49-e0502fb5fc7f")
+	)
+	(wire
+		(pts
+			(xy 285.75 314.96) (xy 299.72 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ed4287c-8611-49d5-b940-1ace69caf91f")
+	)
+	(wire
+		(pts
 			(xy 91.44 330.2) (xy 76.2 330.2)
 		)
 		(stroke
@@ -5785,6 +6716,36 @@
 			(type default)
 		)
 		(uuid "3f92bb49-97ae-4c06-95ec-a377d0d9c775")
+	)
+	(wire
+		(pts
+			(xy 285.75 300.99) (xy 299.72 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4097e5b4-c702-4b4b-a521-d0289a32918e")
+	)
+	(wire
+		(pts
+			(xy 247.65 388.62) (xy 255.27 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "40c622dd-a5e3-4229-9287-1fdf6f722e15")
+	)
+	(wire
+		(pts
+			(xy 224.79 359.41) (xy 240.03 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41b066c1-ee3e-4702-be7b-04988c885d50")
 	)
 	(wire
 		(pts
@@ -5818,6 +6779,26 @@
 	)
 	(wire
 		(pts
+			(xy 285.75 388.62) (xy 285.75 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4267c7a2-8f5e-4cea-8cfc-fc9e73feac9b")
+	)
+	(wire
+		(pts
+			(xy 232.41 355.6) (xy 240.03 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42a1fa62-455f-4085-ac1f-183b77c9992c")
+	)
+	(wire
+		(pts
 			(xy 99.06 311.15) (xy 99.06 325.12)
 		)
 		(stroke
@@ -5825,6 +6806,46 @@
 			(type default)
 		)
 		(uuid "42ae5844-b305-4da0-91a6-ae5411c7b1b5")
+	)
+	(wire
+		(pts
+			(xy 285.75 330.2) (xy 299.72 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42caa3e5-8545-4dc6-934e-e3b7a4c334df")
+	)
+	(wire
+		(pts
+			(xy 278.13 340.36) (xy 278.13 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "435d8ed9-d057-4f38-a38f-aea99fdc86c5")
+	)
+	(wire
+		(pts
+			(xy 262.89 325.12) (xy 255.27 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43746845-704a-4d39-97e5-6415324f06ce")
+	)
+	(wire
+		(pts
+			(xy 247.65 325.12) (xy 240.03 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4374fdb3-0da7-479d-b31f-24cdb61c33f0")
 	)
 	(wire
 		(pts
@@ -5838,6 +6859,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 330.2) (xy 224.79 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "43e2d7c1-bbcd-403c-9bb0-57e3a03478e9")
+	)
+	(wire
+		(pts
 			(xy 147.32 359.41) (xy 162.56 359.41)
 		)
 		(stroke
@@ -5845,6 +6876,16 @@
 			(type default)
 		)
 		(uuid "4516d347-3083-4aa5-a586-e2d5eb6dde0e")
+	)
+	(wire
+		(pts
+			(xy 262.89 340.36) (xy 255.27 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45258980-cf96-4be2-9728-300bcc030777")
 	)
 	(wire
 		(pts
@@ -5865,6 +6906,16 @@
 			(type default)
 		)
 		(uuid "476b8d8a-33da-43a1-8a8c-85760198cc79")
+	)
+	(wire
+		(pts
+			(xy 232.41 369.57) (xy 232.41 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48aad3cc-15b3-4e61-85f7-235265cf201c")
 	)
 	(wire
 		(pts
@@ -5908,6 +6959,36 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 340.36) (xy 215.9 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4af9d490-020f-4a5b-85d3-ddda16745b80")
+	)
+	(wire
+		(pts
+			(xy 278.13 311.15) (xy 270.51 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4bbd6902-1cb2-4d38-a0c6-4b691d12c027")
+	)
+	(wire
+		(pts
+			(xy 292.1 369.57) (xy 292.1 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4c0ffe1b-3086-4a2d-9a71-65b9ea4883cb")
+	)
+	(wire
+		(pts
 			(xy 355.6 58.42) (xy 355.6 62.23)
 		)
 		(stroke
@@ -5928,6 +7009,16 @@
 	)
 	(wire
 		(pts
+			(xy 299.72 287.02) (xy 285.75 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4df25e28-8f2c-4d39-a4c2-9cbf8e8bf9f7")
+	)
+	(wire
+		(pts
 			(xy 162.56 311.15) (xy 170.18 311.15)
 		)
 		(stroke
@@ -5935,6 +7026,16 @@
 			(type default)
 		)
 		(uuid "4df97a3c-d584-45c4-a6a6-1a384ab2fa20")
+	)
+	(wire
+		(pts
+			(xy 306.07 311.15) (xy 306.07 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e201d56-d82a-4701-8e1d-7d93221b5c3c")
 	)
 	(wire
 		(pts
@@ -5978,6 +7079,16 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 297.18) (xy 232.41 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ff66183-1779-4b70-8207-f7e83783c767")
+	)
+	(wire
+		(pts
 			(xy 147.32 373.38) (xy 162.56 373.38)
 		)
 		(stroke
@@ -5995,6 +7106,36 @@
 			(type default)
 		)
 		(uuid "51160314-0bc8-452d-a475-61d7520be328")
+	)
+	(wire
+		(pts
+			(xy 255.27 373.38) (xy 270.51 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51375b06-6e9f-4e77-81de-a5d51b4916d4")
+	)
+	(wire
+		(pts
+			(xy 215.9 388.62) (xy 224.79 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "51475941-afa9-4acd-87fe-e503b4083c7b")
+	)
+	(wire
+		(pts
+			(xy 224.79 388.62) (xy 224.79 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "520eb99e-afdf-4615-ada4-4ec665ba9ee1")
 	)
 	(wire
 		(pts
@@ -6058,6 +7199,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 369.57) (xy 195.58 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "54b342b3-e6c5-4f80-bfc6-14b91776fd95")
+	)
+	(wire
+		(pts
 			(xy 302.26 40.64) (xy 311.15 40.64)
 		)
 		(stroke
@@ -6075,6 +7226,16 @@
 			(type default)
 		)
 		(uuid "550c597a-de7a-4952-ba96-2fa9e5e4fa0c")
+	)
+	(wire
+		(pts
+			(xy 262.89 345.44) (xy 270.51 345.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55983798-fe35-4dba-9a6b-4d3e04f6f822")
 	)
 	(wire
 		(pts
@@ -6125,6 +7286,16 @@
 			(type default)
 		)
 		(uuid "5832f611-db97-45a3-9dbe-5c0df2655b6a")
+	)
+	(wire
+		(pts
+			(xy 292.1 311.15) (xy 292.1 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "585a7f56-4aaa-4de4-9c68-c168e1d5f84f")
 	)
 	(wire
 		(pts
@@ -6198,6 +7369,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 369.57) (xy 215.9 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c6dee98-6208-416b-bbc4-2fae7629ecfb")
+	)
+	(wire
+		(pts
 			(xy 156.21 340.36) (xy 147.32 340.36)
 		)
 		(stroke
@@ -6228,6 +7409,26 @@
 	)
 	(wire
 		(pts
+			(xy 255.27 388.62) (xy 255.27 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ecf1903-fc60-4342-8af7-bb8fa3dc86b2")
+	)
+	(wire
+		(pts
+			(xy 232.41 355.6) (xy 232.41 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5ef031c5-f308-4e9c-9960-bd942dbeb17b")
+	)
+	(wire
+		(pts
 			(xy 250.19 152.4) (xy 267.97 152.4)
 		)
 		(stroke
@@ -6238,6 +7439,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 369.57) (xy 224.79 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f765b2d-cd37-4d89-98a6-fe060a4c18bc")
+	)
+	(wire
+		(pts
 			(xy 280.67 110.49) (xy 280.67 107.95)
 		)
 		(stroke
@@ -6245,6 +7456,26 @@
 			(type default)
 		)
 		(uuid "6127fcc6-f5db-4e3f-a39f-5dba56ca5e95")
+	)
+	(wire
+		(pts
+			(xy 215.9 340.36) (xy 224.79 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61b61a01-5fd3-4f67-a041-34ac7a4c22ce")
+	)
+	(wire
+		(pts
+			(xy 255.27 359.41) (xy 270.51 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61b7a12d-4885-484b-8bd6-3f9f1d6fb7a4")
 	)
 	(wire
 		(pts
@@ -6378,6 +7609,16 @@
 	)
 	(wire
 		(pts
+			(xy 278.13 359.41) (xy 278.13 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6847ea88-2200-44c5-bc66-5fab849f7c5a")
+	)
+	(wire
+		(pts
 			(xy 203.2 111.76) (xy 203.2 113.03)
 		)
 		(stroke
@@ -6398,6 +7639,16 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 388.62) (xy 270.51 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69552e78-a25b-48b0-82fe-91d919c19ee1")
+	)
+	(wire
+		(pts
 			(xy 302.26 45.72) (xy 302.895 45.72)
 		)
 		(stroke
@@ -6405,6 +7656,16 @@
 			(type default)
 		)
 		(uuid "6a262808-f71b-4160-b207-8ebaeea835ca")
+	)
+	(wire
+		(pts
+			(xy 232.41 311.15) (xy 232.41 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6b9aef74-9cb4-4e7d-8a51-dbc261669d4b")
 	)
 	(wire
 		(pts
@@ -6425,6 +7686,16 @@
 			(type default)
 		)
 		(uuid "6c74d7e2-57fd-449c-8a27-440174019350")
+	)
+	(wire
+		(pts
+			(xy 278.13 325.12) (xy 278.13 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e62ccf9-7f21-4c5e-ac40-9f37f262790a")
 	)
 	(wire
 		(pts
@@ -6458,6 +7729,16 @@
 	)
 	(wire
 		(pts
+			(xy 299.72 359.41) (xy 320.04 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f6b7dbb-b3a3-4fea-b0a6-a24c054dfe9e")
+	)
+	(wire
+		(pts
 			(xy 147.32 300.99) (xy 162.56 300.99)
 		)
 		(stroke
@@ -6465,6 +7746,26 @@
 			(type default)
 		)
 		(uuid "6f916400-05c4-4ae7-9c5c-f8bf432d5740")
+	)
+	(wire
+		(pts
+			(xy 240.03 345.44) (xy 255.27 345.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f95dad5-fead-4c78-9d18-09db9c06fff3")
+	)
+	(wire
+		(pts
+			(xy 306.07 325.12) (xy 306.07 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "700df71a-01cf-481a-83b2-172a1be4b795")
 	)
 	(wire
 		(pts
@@ -6498,6 +7799,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 373.38) (xy 240.03 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7162432e-6050-4655-8948-3b4a7e12d013")
+	)
+	(wire
+		(pts
 			(xy 91.44 388.62) (xy 91.44 383.54)
 		)
 		(stroke
@@ -6505,6 +7816,16 @@
 			(type default)
 		)
 		(uuid "71b54751-a82f-4e1f-b313-4a600c724a89")
+	)
+	(wire
+		(pts
+			(xy 195.58 340.36) (xy 208.28 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "727c9d34-6dbf-45da-9a53-8aa76e5d6417")
 	)
 	(wire
 		(pts
@@ -6598,6 +7919,26 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 325.12) (xy 292.1 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7736fdf1-bfa7-4259-ae26-d067527a62b9")
+	)
+	(wire
+		(pts
+			(xy 292.1 325.12) (xy 285.75 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77a826cd-b572-445a-82cc-23246a2c9882")
+	)
+	(wire
+		(pts
 			(xy 477.52 123.19) (xy 440.69 123.19)
 		)
 		(stroke
@@ -6618,6 +7959,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 389.89) (xy 299.72 389.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "799fc966-602e-4d46-8a2f-c947681ba2a3")
+	)
+	(wire
+		(pts
 			(xy 162.56 387.35) (xy 170.18 387.35)
 		)
 		(stroke
@@ -6625,6 +7976,36 @@
 			(type default)
 		)
 		(uuid "79e5bb38-ee9e-4098-827d-074572d118cd")
+	)
+	(wire
+		(pts
+			(xy 195.58 388.62) (xy 208.28 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a90f18c-5578-447e-b86e-2d85232af3b6")
+	)
+	(wire
+		(pts
+			(xy 262.89 311.15) (xy 262.89 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c8d8867-31e1-4e27-9c90-1829bcc2d2ec")
+	)
+	(wire
+		(pts
+			(xy 255.27 297.18) (xy 262.89 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cb76526-d384-4b76-b84f-8098252d4685")
 	)
 	(wire
 		(pts
@@ -6668,6 +8049,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 359.41) (xy 224.79 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7dac582a-33fd-44a3-8179-a036ffa3233b")
+	)
+	(wire
+		(pts
 			(xy 355.6 55.88) (xy 355.6 58.42)
 		)
 		(stroke
@@ -6678,6 +8069,26 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 355.6) (xy 247.65 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7f4de678-7f61-4115-89a2-f0aa5bf92314")
+	)
+	(wire
+		(pts
+			(xy 278.13 340.36) (xy 270.51 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7fce75d0-106c-4a5e-84a6-4e6b62c82c1a")
+	)
+	(wire
+		(pts
 			(xy 245.11 40.64) (xy 276.86 40.64)
 		)
 		(stroke
@@ -6685,6 +8096,16 @@
 			(type default)
 		)
 		(uuid "80292ae2-7c3e-49ea-8325-09f19e9858f7")
+	)
+	(wire
+		(pts
+			(xy 285.75 287.02) (xy 270.51 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "80a15d80-9c91-454d-9d57-db41907543c9")
 	)
 	(wire
 		(pts
@@ -6715,6 +8136,16 @@
 			(type default)
 		)
 		(uuid "82606cab-1ac0-43ea-9e44-6ae4e574334d")
+	)
+	(wire
+		(pts
+			(xy 270.51 297.18) (xy 278.13 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82bf799f-3452-4086-8ad3-375ddea524be")
 	)
 	(wire
 		(pts
@@ -6778,6 +8209,16 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 297.18) (xy 262.89 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "86752e42-1d8e-42ac-9653-75b263d00897")
+	)
+	(wire
+		(pts
 			(xy 290.83 187.96) (xy 295.91 187.96)
 		)
 		(stroke
@@ -6798,6 +8239,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 287.02) (xy 195.58 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87c9742e-003e-4d7e-804c-4e24a8120c29")
+	)
+	(wire
+		(pts
 			(xy 170.18 325.12) (xy 170.18 340.36)
 		)
 		(stroke
@@ -6808,6 +8259,16 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 340.36) (xy 292.1 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "885be14f-6ed8-4092-a96a-67a2ca1bc398")
+	)
+	(wire
+		(pts
 			(xy 426.72 72.39) (xy 426.72 82.55)
 		)
 		(stroke
@@ -6815,6 +8276,26 @@
 			(type default)
 		)
 		(uuid "88e1bde1-2c02-4e72-96bf-e2588ac17580")
+	)
+	(wire
+		(pts
+			(xy 262.89 340.36) (xy 262.89 345.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "88efdce4-6c6d-40fe-b2a8-a5cf77f1f9f1")
+	)
+	(wire
+		(pts
+			(xy 240.03 300.99) (xy 255.27 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "893f83fd-367a-4194-9b79-78edf75c9a7a")
 	)
 	(wire
 		(pts
@@ -6845,6 +8326,26 @@
 			(type default)
 		)
 		(uuid "8b96c29b-be15-47a8-b20e-5a56caa2fa78")
+	)
+	(wire
+		(pts
+			(xy 262.89 311.15) (xy 255.27 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8c238d63-8648-4377-b9d5-1902a9d97691")
+	)
+	(wire
+		(pts
+			(xy 247.65 369.57) (xy 247.65 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f0f45c7-4d79-4f4b-8594-97329976959c")
 	)
 	(wire
 		(pts
@@ -6918,6 +8419,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 359.41) (xy 255.27 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9263587c-93a0-4ec0-ba0d-44f348993c5a")
+	)
+	(wire
+		(pts
 			(xy 68.58 369.57) (xy 76.2 369.57)
 		)
 		(stroke
@@ -6945,6 +8456,26 @@
 			(type default)
 		)
 		(uuid "97546fbf-4002-4f1d-acd9-99e785635910")
+	)
+	(wire
+		(pts
+			(xy 270.51 330.2) (xy 285.75 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97f0f786-c852-4679-9d99-82f7d2911de1")
+	)
+	(wire
+		(pts
+			(xy 224.79 297.18) (xy 232.41 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "982f500d-eebc-4b45-8fc4-93fc73eef518")
 	)
 	(wire
 		(pts
@@ -6978,6 +8509,16 @@
 	)
 	(wire
 		(pts
+			(xy 270.51 300.99) (xy 285.75 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b800aac-166d-4a07-ad7d-5d44a8e26010")
+	)
+	(wire
+		(pts
 			(xy 438.15 114.3) (xy 438.15 125.73)
 		)
 		(stroke
@@ -7005,6 +8546,16 @@
 			(type default)
 		)
 		(uuid "9dc2cb76-58ad-4a47-a843-3a45a75bc1c5")
+	)
+	(wire
+		(pts
+			(xy 278.13 355.6) (xy 278.13 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9de57b01-c0a2-400e-9ec3-0ec0374505cb")
 	)
 	(wire
 		(pts
@@ -7088,6 +8639,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 345.44) (xy 240.03 345.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a21110c1-d6cd-4859-a579-d12ca632dbaf")
+	)
+	(wire
+		(pts
 			(xy 426.72 82.55) (xy 426.72 88.9)
 		)
 		(stroke
@@ -7105,6 +8666,36 @@
 			(type default)
 		)
 		(uuid "a2a91ff8-6cc6-4283-935d-5da97bbe70b4")
+	)
+	(wire
+		(pts
+			(xy 306.07 340.36) (xy 299.72 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2ab1438-2dd5-4635-a1c4-78f379b5cdcc")
+	)
+	(wire
+		(pts
+			(xy 240.03 373.38) (xy 255.27 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2e9aff7-c9d3-40ca-925f-323151c6857b")
+	)
+	(wire
+		(pts
+			(xy 320.04 287.02) (xy 299.72 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a2ffe8f1-bb43-4efa-83f6-b7a0efb93f3b")
 	)
 	(wire
 		(pts
@@ -7198,6 +8789,26 @@
 	)
 	(wire
 		(pts
+			(xy 292.1 355.6) (xy 292.1 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abc089a4-87e8-4c04-af5c-55a489dfde8e")
+	)
+	(wire
+		(pts
+			(xy 232.41 388.62) (xy 240.03 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "abc9627c-cf2e-40a8-a9ff-52e43a1b0727")
+	)
+	(wire
+		(pts
 			(xy 133.35 373.38) (xy 140.97 373.38)
 		)
 		(stroke
@@ -7225,6 +8836,16 @@
 			(type default)
 		)
 		(uuid "b0a839e9-3d72-4a37-9cb2-e82da21733c6")
+	)
+	(wire
+		(pts
+			(xy 292.1 355.6) (xy 285.75 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0d09fc0-be5d-4391-82bc-30c197e00bdc")
 	)
 	(wire
 		(pts
@@ -7258,6 +8879,16 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 369.57) (xy 270.51 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b42c0081-4f1f-4ad4-bc82-2650f4ebbcc9")
+	)
+	(wire
+		(pts
 			(xy 119.38 383.54) (xy 119.38 388.62)
 		)
 		(stroke
@@ -7288,6 +8919,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 300.99) (xy 224.79 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6ff0319-f142-471a-9d60-3266c5894b09")
+	)
+	(wire
+		(pts
 			(xy 486.41 179.07) (xy 488.95 179.07)
 		)
 		(stroke
@@ -7295,6 +8936,16 @@
 			(type default)
 		)
 		(uuid "b840317c-7039-41c0-83c5-57db524c4507")
+	)
+	(wire
+		(pts
+			(xy 299.72 373.38) (xy 320.04 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8b0ae54-74d8-4233-abd5-c8cae4386b10")
 	)
 	(wire
 		(pts
@@ -7328,6 +8979,16 @@
 	)
 	(wire
 		(pts
+			(xy 262.89 369.57) (xy 262.89 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba7f9acf-1a4c-4212-a6a2-caecb015c6a1")
+	)
+	(wire
+		(pts
 			(xy 147.32 314.96) (xy 162.56 314.96)
 		)
 		(stroke
@@ -7338,6 +8999,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 297.18) (xy 215.9 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb755805-1286-4eba-860a-042982fa74a1")
+	)
+	(wire
+		(pts
 			(xy 76.2 388.62) (xy 76.2 383.54)
 		)
 		(stroke
@@ -7345,6 +9016,16 @@
 			(type default)
 		)
 		(uuid "bb8e9a09-9e93-433c-b87d-43f9144f507c")
+	)
+	(wire
+		(pts
+			(xy 195.58 311.15) (xy 208.28 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbb1ed0b-074b-4e15-9405-d204c5aa803e")
 	)
 	(wire
 		(pts
@@ -7378,6 +9059,16 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 287.02) (xy 195.58 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bcf202d2-602e-4072-907d-c9e09570745b")
+	)
+	(wire
+		(pts
 			(xy 302.26 53.34) (xy 312.42 53.34)
 		)
 		(stroke
@@ -7405,6 +9096,36 @@
 			(type default)
 		)
 		(uuid "bd77ba7e-b2e3-4cfe-9eb9-1fe099d0c530")
+	)
+	(wire
+		(pts
+			(xy 262.89 388.62) (xy 270.51 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdc3a917-4bf0-478c-b945-d55f91271d93")
+	)
+	(wire
+		(pts
+			(xy 195.58 355.6) (xy 208.28 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdc9081c-364c-4b23-8785-dc6f38cc989a")
+	)
+	(wire
+		(pts
+			(xy 299.72 297.18) (xy 306.07 297.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bebd7ebd-b7f0-40b0-947d-1ad827495daf")
 	)
 	(wire
 		(pts
@@ -7445,6 +9166,16 @@
 			(type default)
 		)
 		(uuid "c18f9b6a-b13f-4f09-b48d-a85d112ba83e")
+	)
+	(wire
+		(pts
+			(xy 255.27 314.96) (xy 270.51 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c190672b-41c4-4bac-bcc0-f4cbbad31b89")
 	)
 	(wire
 		(pts
@@ -7508,6 +9239,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 330.2) (xy 240.03 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3e58265-c8b2-4978-8681-09ce1c08ebf8")
+	)
+	(wire
+		(pts
 			(xy 452.12 111.76) (xy 457.2 111.76)
 		)
 		(stroke
@@ -7548,6 +9289,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 311.15) (xy 247.65 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c7196dcf-53a7-4a2c-9445-ac326feb7ceb")
+	)
+	(wire
+		(pts
 			(xy 438.15 135.89) (xy 426.72 135.89)
 		)
 		(stroke
@@ -7555,6 +9306,16 @@
 			(type default)
 		)
 		(uuid "c733a8fc-23d9-43f2-8570-b28e3788346f")
+	)
+	(wire
+		(pts
+			(xy 195.58 325.12) (xy 195.58 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c75aa773-b9f4-4201-9dd4-6a8c4c705cd8")
 	)
 	(wire
 		(pts
@@ -7575,6 +9336,16 @@
 			(type default)
 		)
 		(uuid "c8d020bc-5bf4-4865-b926-d3773febd89b")
+	)
+	(wire
+		(pts
+			(xy 208.28 388.62) (xy 208.28 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c90f49aa-84de-4aa9-b2e9-9e5a468537ee")
 	)
 	(wire
 		(pts
@@ -7618,6 +9389,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 325.12) (xy 215.9 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb749cf0-306d-4c45-a8b2-185c376012f0")
+	)
+	(wire
+		(pts
 			(xy 427.99 179.07) (xy 455.93 179.07)
 		)
 		(stroke
@@ -7645,6 +9426,16 @@
 			(type default)
 		)
 		(uuid "ce67c307-a22b-492f-9dfb-e9013599fc6e")
+	)
+	(wire
+		(pts
+			(xy 232.41 369.57) (xy 240.03 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ceaaaedc-c2de-4607-9e3b-eb26850b19fd")
 	)
 	(wire
 		(pts
@@ -7678,6 +9469,16 @@
 	)
 	(wire
 		(pts
+			(xy 195.58 325.12) (xy 208.28 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf6fd220-115f-43de-96be-38a58cc9eb41")
+	)
+	(wire
+		(pts
 			(xy 170.18 340.36) (xy 170.18 355.6)
 		)
 		(stroke
@@ -7708,6 +9509,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 330.2) (xy 247.65 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d18316c0-5c71-403a-b711-4124d763cf7c")
+	)
+	(wire
+		(pts
 			(xy 91.44 300.99) (xy 105.41 300.99)
 		)
 		(stroke
@@ -7715,6 +9526,26 @@
 			(type default)
 		)
 		(uuid "d3ece272-2ba1-483e-afc0-6462e30d62e5")
+	)
+	(wire
+		(pts
+			(xy 224.79 314.96) (xy 232.41 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d448e642-b3b5-423f-824d-5cf9e036bee5")
+	)
+	(wire
+		(pts
+			(xy 285.75 369.57) (xy 292.1 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4f57723-051e-42cf-b706-0a5aba7e5090")
 	)
 	(wire
 		(pts
@@ -7748,6 +9579,16 @@
 	)
 	(wire
 		(pts
+			(xy 247.65 297.18) (xy 247.65 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d62e3cae-52fe-41d1-bb83-6f4b1812030d")
+	)
+	(wire
+		(pts
 			(xy 156.21 325.12) (xy 147.32 325.12)
 		)
 		(stroke
@@ -7778,6 +9619,36 @@
 	)
 	(wire
 		(pts
+			(xy 208.28 373.38) (xy 224.79 373.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7490fb3-0aa3-4259-94fa-6f5c267a9064")
+	)
+	(wire
+		(pts
+			(xy 240.03 314.96) (xy 255.27 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7fa1128-bb13-4194-83b6-27c6ffa8fa1b")
+	)
+	(wire
+		(pts
+			(xy 195.58 311.15) (xy 195.58 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da965a91-ee23-4936-a749-9e9001fbb966")
+	)
+	(wire
+		(pts
 			(xy 31.75 373.38) (xy 60.96 373.38)
 		)
 		(stroke
@@ -7785,6 +9656,36 @@
 			(type default)
 		)
 		(uuid "db2b8da9-6553-46f9-afda-45c6b389e219")
+	)
+	(wire
+		(pts
+			(xy 299.72 300.99) (xy 320.04 300.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db6a4157-23a1-4397-8cba-078502e4d0c5")
+	)
+	(wire
+		(pts
+			(xy 299.72 345.44) (xy 320.04 345.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbb7010c-852f-4448-a938-046559f4262a")
+	)
+	(wire
+		(pts
+			(xy 247.65 325.12) (xy 247.65 330.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd214ac4-4552-45a8-a4e0-c1f477f11d5b")
 	)
 	(wire
 		(pts
@@ -7805,6 +9706,26 @@
 			(type default)
 		)
 		(uuid "dd8ae306-e22c-48f0-98b8-03a2c453aeb5")
+	)
+	(wire
+		(pts
+			(xy 215.9 355.6) (xy 215.9 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dda55363-d1ed-42dd-a3d8-4ff4ff69138e")
+	)
+	(wire
+		(pts
+			(xy 278.13 355.6) (xy 270.51 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de3cdcab-8232-4340-85d0-1c8a49e1ccea")
 	)
 	(wire
 		(pts
@@ -7878,6 +9799,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 369.57) (xy 306.07 389.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0602bda-844e-45d5-86b4-994a29ef0aa3")
+	)
+	(wire
+		(pts
 			(xy 52.07 325.12) (xy 60.96 325.12)
 		)
 		(stroke
@@ -7938,6 +9869,26 @@
 	)
 	(wire
 		(pts
+			(xy 232.41 340.36) (xy 240.03 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4c89c7f-cb18-4fc0-bd78-25e7663c0ad0")
+	)
+	(wire
+		(pts
+			(xy 278.13 325.12) (xy 270.51 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e57211be-e160-4d0b-b9d2-c8120333708e")
+	)
+	(wire
+		(pts
 			(xy 501.65 100.33) (xy 497.84 100.33)
 		)
 		(stroke
@@ -7948,6 +9899,16 @@
 	)
 	(wire
 		(pts
+			(xy 240.03 388.62) (xy 240.03 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e68222a6-03ae-47ab-81c3-276785209d15")
+	)
+	(wire
+		(pts
 			(xy 486.41 181.61) (xy 497.84 181.61)
 		)
 		(stroke
@@ -7955,6 +9916,26 @@
 			(type default)
 		)
 		(uuid "e6c30187-c6a2-4807-90f4-f996e71c0b6f")
+	)
+	(wire
+		(pts
+			(xy 232.41 340.36) (xy 232.41 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6d9694b-7cfc-4fe8-8360-492bc36f1126")
+	)
+	(wire
+		(pts
+			(xy 195.58 340.36) (xy 195.58 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e75a6b60-d6ae-466f-a9f1-2cbbbed7cf19")
 	)
 	(wire
 		(pts
@@ -7978,6 +9959,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 340.36) (xy 306.07 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8310d6d-d22f-4522-b79d-222fb801ee88")
+	)
+	(wire
+		(pts
 			(xy 68.58 355.6) (xy 68.58 369.57)
 		)
 		(stroke
@@ -7985,6 +9976,16 @@
 			(type default)
 		)
 		(uuid "e8c8c57e-2bd1-40ba-b307-b8d98acf2e19")
+	)
+	(wire
+		(pts
+			(xy 278.13 388.62) (xy 285.75 388.62)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8f53887-8aeb-4ce0-8953-bd0ced072042")
 	)
 	(wire
 		(pts
@@ -8038,6 +10039,16 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 355.6) (xy 306.07 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea4623cf-2cb8-4a08-98b7-1ef502239a15")
+	)
+	(wire
+		(pts
 			(xy 147.32 283.21) (xy 162.56 283.21)
 		)
 		(stroke
@@ -8048,6 +10059,16 @@
 	)
 	(wire
 		(pts
+			(xy 299.72 389.89) (xy 299.72 383.54)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb18969c-c199-4696-9fa9-30dbcc79a339")
+	)
+	(wire
+		(pts
 			(xy 119.38 373.38) (xy 133.35 373.38)
 		)
 		(stroke
@@ -8055,6 +10076,16 @@
 			(type default)
 		)
 		(uuid "eb8578bf-609e-4ffd-afd3-624280b2725e")
+	)
+	(wire
+		(pts
+			(xy 270.51 345.44) (xy 285.75 345.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ec0a27bf-1e83-4045-9713-d659bb734fbd")
 	)
 	(wire
 		(pts
@@ -8105,6 +10136,16 @@
 			(type default)
 		)
 		(uuid "ef72ee8c-57e7-4d54-854c-acd9b011aaf0")
+	)
+	(wire
+		(pts
+			(xy 208.28 345.44) (xy 224.79 345.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efa21941-e8d1-4ccf-9ae8-58b3d9c0d65b")
 	)
 	(wire
 		(pts
@@ -8208,6 +10249,16 @@
 	)
 	(wire
 		(pts
+			(xy 224.79 287.02) (xy 208.28 287.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3b05b12-73ce-4508-87c6-42b3a15ad4b4")
+	)
+	(wire
+		(pts
 			(xy 302.26 55.88) (xy 312.42 55.88)
 		)
 		(stroke
@@ -8215,6 +10266,26 @@
 			(type default)
 		)
 		(uuid "f3cbb32b-dcab-4be5-be19-37bcf957f77e")
+	)
+	(wire
+		(pts
+			(xy 270.51 314.96) (xy 285.75 314.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4133c69-2808-4faa-b6ec-8f5c656e94d8")
+	)
+	(wire
+		(pts
+			(xy 262.89 345.44) (xy 262.89 369.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f49f617f-0663-4ca7-bc5d-9ed8173ded97")
 	)
 	(wire
 		(pts
@@ -8278,6 +10349,26 @@
 	)
 	(wire
 		(pts
+			(xy 306.07 355.6) (xy 299.72 355.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8d7bdac-09a8-4c16-a92f-38bea3218712")
+	)
+	(wire
+		(pts
+			(xy 270.51 359.41) (xy 278.13 359.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9a76273-1cdd-482b-8075-d19cf35e5861")
+	)
+	(wire
+		(pts
 			(xy 452.12 88.9) (xy 445.77 88.9)
 		)
 		(stroke
@@ -8335,6 +10426,16 @@
 			(type default)
 		)
 		(uuid "fee68cd7-a2b1-4b57-9a58-c156f5a33289")
+	)
+	(wire
+		(pts
+			(xy 306.07 311.15) (xy 299.72 311.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff37ed98-88db-4a43-8a1d-601c60bbba20")
 	)
 	(wire
 		(pts
@@ -20426,6 +22527,16 @@
 		)
 		(uuid "216a9aec-e6ae-485d-bd52-f5d4608697c3")
 	)
+	(label "CB7"
+		(at 320.04 373.38 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "22bece35-b602-4878-ab6f-e62b46cfb0fb")
+	)
 	(label "P0.22"
 		(at 266.7 55.88 0)
 		(effects
@@ -20726,6 +22837,16 @@
 		)
 		(uuid "9a9d708f-88ad-432b-8fec-b8d9afe7369a")
 	)
+	(label "CB2"
+		(at 320.04 300.99 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9bee9579-912d-47ef-a491-ca002128548e")
+	)
 	(label "P1.04"
 		(at 266.7 66.04 0)
 		(effects
@@ -20746,6 +22867,26 @@
 		)
 		(uuid "a5527d9e-aec6-4cef-a460-f945fed232c9")
 	)
+	(label "CB6"
+		(at 320.04 359.41 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a79457e8-dfec-49b9-a125-d8a40535712c")
+	)
+	(label "CB8"
+		(at 318.77 389.89 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "aee26440-b16e-4cbd-b6b2-80dd17737238")
+	)
 	(label "CB7"
 		(at 290.83 193.04 0)
 		(effects
@@ -20755,6 +22896,16 @@
 			(justify left bottom)
 		)
 		(uuid "b3511af2-5da5-499f-8783-13e352f9d509")
+	)
+	(label "CB5"
+		(at 320.04 345.44 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b6bac556-754b-4ea1-aeea-4011b81a9bfc")
 	)
 	(label "CB2"
 		(at 290.83 180.34 0)
@@ -20775,6 +22926,26 @@
 			(justify left bottom)
 		)
 		(uuid "b79b2bc9-6b9c-4ac2-873d-a7c3960692cf")
+	)
+	(label "CB3"
+		(at 320.04 314.96 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c842e3ea-c869-4004-be52-a652e5cb8cff")
+	)
+	(label "CB4"
+		(at 320.04 330.2 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ce3ad5ce-6fc4-4433-a69b-f019f57ffef8")
 	)
 	(label "P0.24"
 		(at 266.7 58.42 0)
@@ -20815,6 +22986,16 @@
 			(justify right bottom)
 		)
 		(uuid "ddefb2dc-01b8-4134-83e2-39631c7ee588")
+	)
+	(label "CB1"
+		(at 320.04 287.02 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "e904c112-b8d8-42d5-9e83-ac3abd50d309")
 	)
 	(label "P0.06"
 		(at 266.7 40.64 0)
@@ -22180,7 +24361,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 285.75 341.63 0)
+		(at 285.75 350.52 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -22188,8 +24369,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0b2fc36c-a297-4ed0-8b63-2af74c666e37")
-		(property "Reference" "LED94"
-			(at 287.02 345.44 0)
+		(property "Reference" "LEDC5-R14"
+			(at 288.798 351.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22197,7 +24378,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 284.99 347.98 0)
+			(at 279.4 349.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22206,7 +24387,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 285.75 334.01 0)
+			(at 293.37 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22215,7 +24396,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 285.75 341.63 0)
+			(at 285.75 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22224,7 +24405,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 285.75 341.63 0)
+			(at 285.75 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22233,7 +24414,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 285.75 331.47 0)
+			(at 295.91 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22250,7 +24431,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED94")
+					(reference "LEDC5-R14")
 					(unit 1)
 				)
 			)
@@ -22705,8 +24886,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "17b1aab3-4ac5-45ce-a01a-15ada4ccd023")
-		(property "Reference" "LED61"
-			(at 204.47 321.31 0)
+		(property "Reference" "LEDC3-R9"
+			(at 211.582 320.294 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22767,7 +24948,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED61")
+					(reference "LEDC3-R9")
 					(unit 1)
 				)
 			)
@@ -23001,7 +25182,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 270.51 341.63 0)
+		(at 270.51 350.52 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23009,8 +25190,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "21a23b0f-d30a-411b-9d49-99b86f311b5d")
-		(property "Reference" "LED87"
-			(at 271.78 345.44 0)
+		(property "Reference" "LEDC5-R13"
+			(at 274.066 350.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23018,7 +25199,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 269.75 347.98 0)
+			(at 264.16 349.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23027,7 +25208,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 270.51 334.01 0)
+			(at 278.13 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23036,7 +25217,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 341.63 0)
+			(at 270.51 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23045,7 +25226,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 341.63 0)
+			(at 270.51 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23054,7 +25235,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 270.51 331.47 0)
+			(at 280.67 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23071,7 +25252,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED87")
+					(reference "LEDC5-R13")
 					(unit 1)
 				)
 			)
@@ -23157,7 +25338,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 270.51 354.33 0)
+		(at 270.51 364.49 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23165,8 +25346,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "29f7a286-f481-44f2-9f09-aa8321cc0623")
-		(property "Reference" "LED86"
-			(at 271.78 358.14 0)
+		(property "Reference" "LEDC6-R13"
+			(at 274.066 364.998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23174,7 +25355,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 269.75 360.68 0)
+			(at 264.16 363.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23183,7 +25364,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 270.51 346.71 0)
+			(at 278.13 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23192,7 +25373,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 354.33 0)
+			(at 270.51 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23201,7 +25382,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 354.33 0)
+			(at 270.51 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23210,7 +25391,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 270.51 344.17 0)
+			(at 280.67 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23227,7 +25408,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED86")
+					(reference "LEDC6-R13")
 					(unit 1)
 				)
 			)
@@ -23770,7 +25951,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 255.27 341.63 0)
+		(at 255.27 350.52 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -23778,8 +25959,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "387cc28f-6be4-4111-bf6c-36cff6bcdbad")
-		(property "Reference" "LED80"
-			(at 256.54 345.44 0)
+		(property "Reference" "LEDC5-R12"
+			(at 258.318 351.282 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23787,7 +25968,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 254.51 347.98 0)
+			(at 248.92 349.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23796,7 +25977,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 255.27 334.01 0)
+			(at 262.89 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23805,7 +25986,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 341.63 0)
+			(at 255.27 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23814,7 +25995,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 341.63 0)
+			(at 255.27 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23823,7 +26004,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 255.27 331.47 0)
+			(at 265.43 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23840,7 +26021,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED80")
+					(reference "LEDC5-R12")
 					(unit 1)
 				)
 			)
@@ -24000,8 +26181,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3cc03608-b982-4fd1-a6b9-b5e7818f99fb")
-		(property "Reference" "LED60"
-			(at 204.47 336.55 0)
+		(property "Reference" "LEDC4-R9"
+			(at 211.836 335.026 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24062,7 +26243,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED60")
+					(reference "LEDC4-R9")
 					(unit 1)
 				)
 			)
@@ -24340,8 +26521,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "41ba836c-a984-4de0-a41f-0a5e36f2bfcb")
-		(property "Reference" "LED63"
-			(at 204.47 293.37 0)
+		(property "Reference" "LEDC1-R9"
+			(at 211.328 292.608 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24402,7 +26583,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED63")
+					(reference "LEDC1-R9")
 					(unit 1)
 				)
 			)
@@ -24488,7 +26669,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 240.03 318.77 0)
+		(at 240.03 320.04 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24496,8 +26677,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "437b1695-470d-4f1b-9d41-aa81948c2199")
-		(property "Reference" "LED75"
-			(at 241.3 322.58 0)
+		(property "Reference" "LEDC3-R11"
+			(at 243.078 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24505,7 +26686,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 239.27 325.12 0)
+			(at 233.68 319.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24514,7 +26695,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 240.03 311.15 0)
+			(at 247.65 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24523,7 +26704,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 318.77 0)
+			(at 240.03 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24532,7 +26713,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.03 318.77 0)
+			(at 240.03 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24541,7 +26722,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 240.03 308.61 0)
+			(at 250.19 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24558,7 +26739,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED75")
+					(reference "LEDC3-R11")
 					(unit 1)
 				)
 			)
@@ -24566,7 +26747,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 299.72 330.2 0)
+		(at 299.72 335.28 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24574,8 +26755,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "437e70b7-7645-4610-a379-5dd75530ff57")
-		(property "Reference" "LED102"
-			(at 300.99 334.01 0)
+		(property "Reference" "LEDC4-R15"
+			(at 303.276 336.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24583,7 +26764,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 298.96 336.55 0)
+			(at 293.37 334.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24592,7 +26773,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 299.72 322.58 0)
+			(at 307.34 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24601,7 +26782,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 330.2 0)
+			(at 299.72 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24610,7 +26791,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 299.72 330.2 0)
+			(at 299.72 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24619,7 +26800,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 299.72 320.04 0)
+			(at 309.88 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24636,7 +26817,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED102")
+					(reference "LEDC4-R15")
 					(unit 1)
 				)
 			)
@@ -24644,7 +26825,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 223.52 365.76 0)
+		(at 224.79 378.46 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24652,8 +26833,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "45a39c11-666a-46a8-8faa-f96a093aa734")
-		(property "Reference" "LED64"
-			(at 224.79 369.57 0)
+		(property "Reference" "LEDC7-R10"
+			(at 228.6 378.206 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24661,7 +26842,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 222.76 372.11 0)
+			(at 218.44 377.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24670,7 +26851,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 223.52 358.14 0)
+			(at 232.41 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24679,7 +26860,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 365.76 0)
+			(at 224.79 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24688,7 +26869,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 365.76 0)
+			(at 224.79 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24697,7 +26878,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 223.52 355.6 0)
+			(at 234.95 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24714,7 +26895,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED64")
+					(reference "LEDC7-R10")
 					(unit 1)
 				)
 			)
@@ -24788,7 +26969,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 299.72 318.77 0)
+		(at 299.72 320.04 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24796,8 +26977,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4927638c-584d-46d3-a196-ad23c44b2001")
-		(property "Reference" "LED103"
-			(at 300.99 322.58 0)
+		(property "Reference" "LEDC3-R15"
+			(at 303.022 320.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24805,7 +26986,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 298.96 325.12 0)
+			(at 293.37 319.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24814,7 +26995,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 299.72 311.15 0)
+			(at 307.34 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24823,7 +27004,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 318.77 0)
+			(at 299.72 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24832,7 +27013,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 299.72 318.77 0)
+			(at 299.72 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24841,7 +27022,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 299.72 308.61 0)
+			(at 309.88 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24858,7 +27039,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED103")
+					(reference "LEDC3-R15")
 					(unit 1)
 				)
 			)
@@ -24930,7 +27111,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 240.03 341.63 0)
+		(at 240.03 350.52 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -24938,8 +27119,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4f612973-5fb4-47dc-9921-323768287881")
-		(property "Reference" "LED73"
-			(at 241.3 345.44 0)
+		(property "Reference" "LEDC5-R11"
+			(at 243.332 351.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24947,7 +27128,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 239.27 347.98 0)
+			(at 233.68 349.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24956,7 +27137,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 240.03 334.01 0)
+			(at 247.65 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24965,7 +27146,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 341.63 0)
+			(at 240.03 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24974,7 +27155,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.03 341.63 0)
+			(at 240.03 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24983,7 +27164,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 240.03 331.47 0)
+			(at 250.19 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25000,7 +27181,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED73")
+					(reference "LEDC5-R11")
 					(unit 1)
 				)
 			)
@@ -25150,7 +27331,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 255.27 307.34 0)
+		(at 255.27 306.07 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25158,8 +27339,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "54ebd0f9-f31e-4f75-b984-78326ee4340e")
-		(property "Reference" "LED83"
-			(at 256.54 311.15 0)
+		(property "Reference" "LEDC2-R12"
+			(at 258.318 307.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25167,7 +27348,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 254.51 313.69 0)
+			(at 248.92 305.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25176,7 +27357,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 255.27 299.72 0)
+			(at 262.89 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25185,7 +27366,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 307.34 0)
+			(at 255.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25194,7 +27375,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 307.34 0)
+			(at 255.27 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25203,7 +27384,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 255.27 297.18 0)
+			(at 265.43 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25220,7 +27401,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED83")
+					(reference "LEDC2-R12")
 					(unit 1)
 				)
 			)
@@ -25292,7 +27473,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 240.03 330.2 0)
+		(at 240.03 335.28 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25300,8 +27481,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5baa4619-84aa-4f9f-8540-2ad963b3257b")
-		(property "Reference" "LED74"
-			(at 241.3 334.01 0)
+		(property "Reference" "LEDC4-R11"
+			(at 243.332 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25309,7 +27490,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 239.27 336.55 0)
+			(at 233.68 334.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25318,7 +27499,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 240.03 322.58 0)
+			(at 247.65 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25327,7 +27508,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 330.2 0)
+			(at 240.03 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25336,7 +27517,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.03 330.2 0)
+			(at 240.03 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25345,7 +27526,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 240.03 320.04 0)
+			(at 250.19 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25362,7 +27543,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED74")
+					(reference "LEDC4-R11")
 					(unit 1)
 				)
 			)
@@ -25730,7 +27911,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 223.52 295.91 0)
+		(at 224.79 292.1 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25738,8 +27919,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "623f6c77-ea23-4ea8-9dd9-917b2a4d39f7")
-		(property "Reference" "LED70"
-			(at 224.79 299.72 0)
+		(property "Reference" "LEDC1-R10"
+			(at 227.584 292.862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25747,7 +27928,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 222.76 302.26 0)
+			(at 218.44 291.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25756,7 +27937,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 223.52 288.29 0)
+			(at 232.41 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25765,7 +27946,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 295.91 0)
+			(at 224.79 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25774,7 +27955,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 295.91 0)
+			(at 224.79 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25783,7 +27964,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 223.52 285.75 0)
+			(at 234.95 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25800,7 +27981,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED70")
+					(reference "LEDC1-R10")
 					(unit 1)
 				)
 			)
@@ -25940,7 +28121,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 285.75 365.76 0)
+		(at 285.75 378.46 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -25948,8 +28129,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "692fc9da-6f9d-4e0c-8d2e-793e45732f51")
-		(property "Reference" "LED92"
-			(at 287.02 369.57 0)
+		(property "Reference" "LEDC7-R14"
+			(at 289.052 379.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25957,7 +28138,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 284.99 372.11 0)
+			(at 279.4 377.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25966,7 +28147,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 285.75 358.14 0)
+			(at 293.37 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25975,7 +28156,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 285.75 365.76 0)
+			(at 285.75 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25984,7 +28165,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 285.75 365.76 0)
+			(at 285.75 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25993,7 +28174,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 285.75 355.6 0)
+			(at 295.91 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26010,7 +28191,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED92")
+					(reference "LEDC7-R14")
 					(unit 1)
 				)
 			)
@@ -26174,7 +28355,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 255.27 330.2 0)
+		(at 255.27 335.28 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26182,8 +28363,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "719f04f7-de3b-455e-8d15-b0de9abbca04")
-		(property "Reference" "LED81"
-			(at 256.54 334.01 0)
+		(property "Reference" "LEDC4-R12"
+			(at 258.572 335.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26191,7 +28372,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 254.51 336.55 0)
+			(at 248.92 334.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26200,7 +28381,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 255.27 322.58 0)
+			(at 262.89 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26209,7 +28390,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 330.2 0)
+			(at 255.27 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26218,7 +28399,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 330.2 0)
+			(at 255.27 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26227,7 +28408,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 255.27 320.04 0)
+			(at 265.43 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26244,7 +28425,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED81")
+					(reference "LEDC4-R12")
 					(unit 1)
 				)
 			)
@@ -26394,7 +28575,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 223.52 318.77 0)
+		(at 224.79 320.04 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26402,8 +28583,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "75f7039a-addb-4599-9d9c-bcb700b88d43")
-		(property "Reference" "LED68"
-			(at 224.79 322.58 0)
+		(property "Reference" "LEDC3-R10"
+			(at 227.838 320.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26411,7 +28592,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 222.76 325.12 0)
+			(at 218.44 319.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26420,7 +28601,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 223.52 311.15 0)
+			(at 232.41 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26429,7 +28610,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 318.77 0)
+			(at 224.79 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26438,7 +28619,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 318.77 0)
+			(at 224.79 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26447,7 +28628,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 223.52 308.61 0)
+			(at 234.95 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26464,7 +28645,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED68")
+					(reference "LEDC3-R10")
 					(unit 1)
 				)
 			)
@@ -26628,7 +28809,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 270.51 365.76 0)
+		(at 270.51 378.46 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26636,8 +28817,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "780dbeac-470a-4723-95ca-066b79014d8e")
-		(property "Reference" "LED85"
-			(at 271.78 369.57 0)
+		(property "Reference" "LEDC7-R13"
+			(at 274.066 379.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26645,7 +28826,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 269.75 372.11 0)
+			(at 264.16 377.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26654,7 +28835,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 270.51 358.14 0)
+			(at 278.13 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26663,7 +28844,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 365.76 0)
+			(at 270.51 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26672,7 +28853,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 365.76 0)
+			(at 270.51 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26681,7 +28862,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 270.51 355.6 0)
+			(at 280.67 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26698,7 +28879,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED85")
+					(reference "LEDC7-R13")
 					(unit 1)
 				)
 			)
@@ -26706,7 +28887,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 270.51 330.2 0)
+		(at 270.51 335.28 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26714,8 +28895,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "785cb7f0-e29c-4228-804a-924cd2d5840f")
-		(property "Reference" "LED88"
-			(at 271.78 334.01 0)
+		(property "Reference" "LEDC4-R13"
+			(at 274.066 335.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26723,7 +28904,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 269.75 336.55 0)
+			(at 264.16 334.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26732,7 +28913,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 270.51 322.58 0)
+			(at 278.13 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26741,7 +28922,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 330.2 0)
+			(at 270.51 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26750,7 +28931,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 330.2 0)
+			(at 270.51 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26759,7 +28940,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 270.51 320.04 0)
+			(at 280.67 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26776,7 +28957,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED88")
+					(reference "LEDC4-R13")
 					(unit 1)
 				)
 			)
@@ -26784,7 +28965,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 240.03 365.76 0)
+		(at 240.03 378.46 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26792,8 +28973,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "794fb739-ca3e-4027-ad6b-15b1ac4818dd")
-		(property "Reference" "LED71"
-			(at 241.3 369.57 0)
+		(property "Reference" "LEDC7-R11"
+			(at 243.332 378.714 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26801,7 +28982,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 239.27 372.11 0)
+			(at 233.68 377.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26810,7 +28991,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 240.03 358.14 0)
+			(at 247.65 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26819,7 +29000,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 365.76 0)
+			(at 240.03 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26828,7 +29009,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.03 365.76 0)
+			(at 240.03 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26837,7 +29018,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 240.03 355.6 0)
+			(at 250.19 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26854,7 +29035,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED71")
+					(reference "LEDC7-R11")
 					(unit 1)
 				)
 			)
@@ -26926,7 +29107,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 270.51 307.34 0)
+		(at 270.51 306.07 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -26934,8 +29115,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7a54e03e-64fc-4ba1-b0e5-9247f8257556")
-		(property "Reference" "LED90"
-			(at 271.78 311.15 0)
+		(property "Reference" "LEDC2-R13"
+			(at 274.066 306.578 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26943,7 +29124,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 269.75 313.69 0)
+			(at 264.16 305.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26952,7 +29133,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 270.51 299.72 0)
+			(at 278.13 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26961,7 +29142,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 307.34 0)
+			(at 270.51 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26970,7 +29151,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 307.34 0)
+			(at 270.51 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26979,7 +29160,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 270.51 297.18 0)
+			(at 280.67 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26996,7 +29177,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED90")
+					(reference "LEDC2-R13")
 					(unit 1)
 				)
 			)
@@ -27082,7 +29263,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 223.52 341.63 0)
+		(at 224.79 350.52 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27090,8 +29271,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7d17842c-3045-4b73-83a0-026675a86410")
-		(property "Reference" "LED66"
-			(at 224.79 345.44 0)
+		(property "Reference" "LEDC5-R10"
+			(at 228.092 350.774 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27099,7 +29280,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 222.76 347.98 0)
+			(at 218.44 349.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27108,7 +29289,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 223.52 334.01 0)
+			(at 232.41 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27117,7 +29298,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 341.63 0)
+			(at 224.79 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27126,7 +29307,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 341.63 0)
+			(at 224.79 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27135,7 +29316,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 223.52 331.47 0)
+			(at 234.95 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27152,7 +29333,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED66")
+					(reference "LEDC5-R10")
 					(unit 1)
 				)
 			)
@@ -27315,7 +29496,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 205.74 364.49 0)
+		(at 208.28 350.52 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27323,8 +29504,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "885b5440-fdde-4341-b7b1-be1be004950a")
-		(property "Reference" "LED59"
-			(at 207.01 368.3 0)
+		(property "Reference" "LEDC5-R9"
+			(at 212.344 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27332,7 +29513,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 204.98 370.84 0)
+			(at 201.93 349.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27341,7 +29522,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 205.74 356.87 0)
+			(at 215.9 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27350,7 +29531,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 364.49 0)
+			(at 208.28 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27359,7 +29540,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 205.74 364.49 0)
+			(at 208.28 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27368,7 +29549,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 205.74 354.33 0)
+			(at 218.44 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27385,7 +29566,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED59")
+					(reference "LEDC5-R9")
 					(unit 1)
 				)
 			)
@@ -27393,7 +29574,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 285.75 354.33 0)
+		(at 285.75 364.49 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27401,8 +29582,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "892c6dea-7f82-44a2-8277-a4a369f52c73")
-		(property "Reference" "LED93"
-			(at 287.02 358.14 0)
+		(property "Reference" "LEDC6-R14"
+			(at 289.052 364.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27410,7 +29591,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 284.99 360.68 0)
+			(at 279.4 363.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27419,7 +29600,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 285.75 346.71 0)
+			(at 293.37 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27428,7 +29609,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 285.75 354.33 0)
+			(at 285.75 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27437,7 +29618,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 285.75 354.33 0)
+			(at 285.75 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27446,7 +29627,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 285.75 344.17 0)
+			(at 295.91 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27463,7 +29644,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED93")
+					(reference "LEDC6-R14")
 					(unit 1)
 				)
 			)
@@ -27471,7 +29652,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 255.27 365.76 0)
+		(at 255.27 378.46 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27479,8 +29660,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8add723f-a59a-4bc9-85ac-82cc42da039a")
-		(property "Reference" "LED78"
-			(at 256.54 369.57 0)
+		(property "Reference" "LEDC7-R12"
+			(at 258.318 378.968 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27488,7 +29669,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 254.51 372.11 0)
+			(at 248.92 377.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27497,7 +29678,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 255.27 358.14 0)
+			(at 262.89 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27506,7 +29687,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 365.76 0)
+			(at 255.27 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27515,7 +29696,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 365.76 0)
+			(at 255.27 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27524,7 +29705,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 255.27 355.6 0)
+			(at 265.43 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27541,7 +29722,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED78")
+					(reference "LEDC7-R12")
 					(unit 1)
 				)
 			)
@@ -27990,7 +30171,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 255.27 318.77 0)
+		(at 255.27 320.04 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -27998,8 +30179,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9674d4e6-6868-4b1a-8307-c145026d7737")
-		(property "Reference" "LED82"
-			(at 256.54 322.58 0)
+		(property "Reference" "LEDC3-R12"
+			(at 258.318 320.802 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28007,7 +30188,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 254.51 325.12 0)
+			(at 248.92 319.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28016,7 +30197,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 255.27 311.15 0)
+			(at 262.89 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28025,7 +30206,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 318.77 0)
+			(at 255.27 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28034,7 +30215,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 318.77 0)
+			(at 255.27 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28043,7 +30224,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 255.27 308.61 0)
+			(at 265.43 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28060,7 +30241,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED82")
+					(reference "LEDC3-R12")
 					(unit 1)
 				)
 			)
@@ -28382,7 +30563,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 205.74 388.62 0)
+		(at 208.28 378.46 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28390,8 +30571,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a26b55b5-e746-4a86-af5f-f2d5d426066f")
-		(property "Reference" "LED57"
-			(at 207.01 392.43 0)
+		(property "Reference" "LEDC7-R9"
+			(at 211.836 378.206 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28399,7 +30580,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 204.98 394.97 0)
+			(at 201.93 377.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28408,7 +30589,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 205.74 381 0)
+			(at 215.9 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28417,7 +30598,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 388.62 0)
+			(at 208.28 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28426,7 +30607,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 205.74 388.62 0)
+			(at 208.28 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28435,7 +30616,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 205.74 378.46 0)
+			(at 218.44 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28452,7 +30633,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED57")
+					(reference "LEDC7-R9")
 					(unit 1)
 				)
 			)
@@ -28460,7 +30641,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 255.27 295.91 0)
+		(at 255.27 292.1 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28468,8 +30649,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a2dafa8c-0fca-479b-a76b-85001294c3ab")
-		(property "Reference" "LED84"
-			(at 256.54 299.72 0)
+		(property "Reference" "LEDC1-R12"
+			(at 258.318 292.862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28477,7 +30658,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 254.51 302.26 0)
+			(at 248.92 291.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28486,7 +30667,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 255.27 288.29 0)
+			(at 262.89 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28495,7 +30676,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 295.91 0)
+			(at 255.27 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28504,7 +30685,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 295.91 0)
+			(at 255.27 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28513,7 +30694,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 255.27 285.75 0)
+			(at 265.43 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28530,7 +30711,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED84")
+					(reference "LEDC1-R12")
 					(unit 1)
 				)
 			)
@@ -28538,7 +30719,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 270.51 318.77 0)
+		(at 270.51 320.04 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28546,8 +30727,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a4f456b2-d5bb-49f5-8fdd-9ee3fd26227d")
-		(property "Reference" "LED89"
-			(at 271.78 322.58 0)
+		(property "Reference" "LEDC3-R13"
+			(at 274.066 320.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28555,7 +30736,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 269.75 325.12 0)
+			(at 264.16 319.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28564,7 +30745,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 270.51 311.15 0)
+			(at 278.13 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28573,7 +30754,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 318.77 0)
+			(at 270.51 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28582,7 +30763,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 318.77 0)
+			(at 270.51 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28591,7 +30772,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 270.51 308.61 0)
+			(at 280.67 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28608,7 +30789,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED89")
+					(reference "LEDC3-R13")
 					(unit 1)
 				)
 			)
@@ -28772,7 +30953,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 299.72 365.76 0)
+		(at 299.72 378.46 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -28780,8 +30961,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ad26f7d4-1871-4ad5-b0f0-b79c556fb1d0")
-		(property "Reference" "LED99"
-			(at 300.99 369.57 0)
+		(property "Reference" "LEDC7-R15"
+			(at 303.276 379.222 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28789,7 +30970,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 298.96 372.11 0)
+			(at 293.37 377.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28798,7 +30979,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 299.72 358.14 0)
+			(at 307.34 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28807,7 +30988,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 365.76 0)
+			(at 299.72 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28816,7 +30997,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 299.72 365.76 0)
+			(at 299.72 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28825,7 +31006,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 299.72 355.6 0)
+			(at 309.88 378.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28842,7 +31023,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED99")
+					(reference "LEDC7-R15")
 					(unit 1)
 				)
 			)
@@ -29089,7 +31270,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 205.74 377.19 0)
+		(at 208.28 364.49 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29097,8 +31278,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "af2d9678-2164-47e5-843f-953852ddaa00")
-		(property "Reference" "LED58"
-			(at 207.01 381 0)
+		(property "Reference" "LEDC6-R9"
+			(at 212.344 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29106,7 +31287,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 204.98 383.54 0)
+			(at 201.93 363.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29115,7 +31296,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 205.74 369.57 0)
+			(at 215.9 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29124,7 +31305,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 205.74 377.19 0)
+			(at 208.28 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29133,7 +31314,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 205.74 377.19 0)
+			(at 208.28 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29142,7 +31323,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 205.74 367.03 0)
+			(at 218.44 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29159,7 +31340,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED58")
+					(reference "LEDC6-R9")
 					(unit 1)
 				)
 			)
@@ -29245,7 +31426,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 285.75 307.34 0)
+		(at 285.75 306.07 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29253,8 +31434,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b5c9831e-0898-4dbb-bfa4-de69d31b8d34")
-		(property "Reference" "LED97"
-			(at 287.02 311.15 0)
+		(property "Reference" "LEDC2-R14"
+			(at 289.052 306.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29262,7 +31443,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 284.99 313.69 0)
+			(at 279.4 305.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29271,7 +31452,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 285.75 299.72 0)
+			(at 293.37 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29280,7 +31461,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 285.75 307.34 0)
+			(at 285.75 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29289,7 +31470,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 285.75 307.34 0)
+			(at 285.75 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29298,7 +31479,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 285.75 297.18 0)
+			(at 295.91 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29315,7 +31496,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED97")
+					(reference "LEDC2-R14")
 					(unit 1)
 				)
 			)
@@ -29323,7 +31504,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 240.03 307.34 0)
+		(at 240.03 306.07 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29331,8 +31512,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b63c5f48-65e4-4a35-8e5d-c6923bcb5634")
-		(property "Reference" "LED76"
-			(at 241.3 311.15 0)
+		(property "Reference" "LEDC2-R11"
+			(at 243.078 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29340,7 +31521,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 239.27 313.69 0)
+			(at 233.68 305.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29349,7 +31530,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 240.03 299.72 0)
+			(at 247.65 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29358,7 +31539,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 307.34 0)
+			(at 240.03 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29367,7 +31548,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.03 307.34 0)
+			(at 240.03 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29376,7 +31557,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 240.03 297.18 0)
+			(at 250.19 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29393,7 +31574,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED76")
+					(reference "LEDC2-R11")
 					(unit 1)
 				)
 			)
@@ -29401,7 +31582,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 270.51 295.91 0)
+		(at 270.51 292.1 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29409,8 +31590,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b6994040-71c3-4549-be35-6c87eccab622")
-		(property "Reference" "LED91"
-			(at 271.78 299.72 0)
+		(property "Reference" "LEDC1-R13"
+			(at 273.558 292.608 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29418,7 +31599,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 269.75 302.26 0)
+			(at 264.16 291.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29427,7 +31608,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 270.51 288.29 0)
+			(at 278.13 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29436,7 +31617,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 270.51 295.91 0)
+			(at 270.51 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29445,7 +31626,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 270.51 295.91 0)
+			(at 270.51 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29454,7 +31635,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 270.51 285.75 0)
+			(at 280.67 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29471,7 +31652,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED91")
+					(reference "LEDC1-R13")
 					(unit 1)
 				)
 			)
@@ -29555,7 +31736,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 285.75 330.2 0)
+		(at 285.75 335.28 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29563,8 +31744,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b9bcc4cd-2434-422e-9156-8c7472ab66b8")
-		(property "Reference" "LED95"
-			(at 287.02 334.01 0)
+		(property "Reference" "LEDC4-R14"
+			(at 288.798 335.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29572,7 +31753,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 284.99 336.55 0)
+			(at 279.4 334.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29581,7 +31762,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 285.75 322.58 0)
+			(at 293.37 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29590,7 +31771,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 285.75 330.2 0)
+			(at 285.75 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29599,7 +31780,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 285.75 330.2 0)
+			(at 285.75 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29608,7 +31789,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 285.75 320.04 0)
+			(at 295.91 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29625,7 +31806,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED95")
+					(reference "LEDC4-R14")
 					(unit 1)
 				)
 			)
@@ -29949,7 +32130,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 299.72 354.33 0)
+		(at 299.72 364.49 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -29957,8 +32138,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "bed57b7c-aa95-4896-9a2b-1eefc6c6202a")
-		(property "Reference" "LED100"
-			(at 300.99 358.14 0)
+		(property "Reference" "LEDC6-R15"
+			(at 303.276 364.998 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29966,7 +32147,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 298.96 360.68 0)
+			(at 293.37 363.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29975,7 +32156,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 299.72 346.71 0)
+			(at 307.34 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29984,7 +32165,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 354.33 0)
+			(at 299.72 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29993,7 +32174,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 299.72 354.33 0)
+			(at 299.72 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30002,7 +32183,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 299.72 344.17 0)
+			(at 309.88 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30019,7 +32200,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED100")
+					(reference "LEDC6-R15")
 					(unit 1)
 				)
 			)
@@ -30967,7 +33148,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 299.72 341.63 0)
+		(at 299.72 350.52 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -30975,8 +33156,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "cbba1bc8-22d0-4c42-bc87-fcadacfd8867")
-		(property "Reference" "LED101"
-			(at 300.99 345.44 0)
+		(property "Reference" "LEDC5-R15"
+			(at 303.53 351.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30984,7 +33165,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 298.96 347.98 0)
+			(at 293.37 349.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30993,7 +33174,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 299.72 334.01 0)
+			(at 307.34 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31002,7 +33183,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 341.63 0)
+			(at 299.72 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31011,7 +33192,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 299.72 341.63 0)
+			(at 299.72 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31020,7 +33201,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 299.72 331.47 0)
+			(at 309.88 350.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31037,7 +33218,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED101")
+					(reference "LEDC5-R15")
 					(unit 1)
 				)
 			)
@@ -31257,7 +33438,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 299.72 295.91 0)
+		(at 299.72 292.1 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31265,8 +33446,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d1099d26-5463-4acd-ada6-9f8464cf09d1")
-		(property "Reference" "LED105"
-			(at 300.99 299.72 0)
+		(property "Reference" "LEDC1-R15"
+			(at 302.768 293.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31274,7 +33455,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 298.96 302.26 0)
+			(at 293.37 291.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31283,7 +33464,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 299.72 288.29 0)
+			(at 307.34 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31292,7 +33473,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 295.91 0)
+			(at 299.72 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31301,7 +33482,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 299.72 295.91 0)
+			(at 299.72 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31310,7 +33491,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 299.72 285.75 0)
+			(at 309.88 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31327,7 +33508,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED105")
+					(reference "LEDC1-R15")
 					(unit 1)
 				)
 			)
@@ -31465,7 +33646,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 255.27 354.33 0)
+		(at 255.27 364.49 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31473,8 +33654,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d4ec3cee-4e61-415e-9db3-cb36a72aeb1e")
-		(property "Reference" "LED79"
-			(at 256.54 358.14 0)
+		(property "Reference" "LEDC6-R12"
+			(at 258.318 365.252 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31482,7 +33663,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 254.51 360.68 0)
+			(at 248.92 363.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31491,7 +33672,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 255.27 346.71 0)
+			(at 262.89 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31500,7 +33681,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 255.27 354.33 0)
+			(at 255.27 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31509,7 +33690,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 255.27 354.33 0)
+			(at 255.27 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31518,7 +33699,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 255.27 344.17 0)
+			(at 265.43 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31535,7 +33716,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED79")
+					(reference "LEDC6-R12")
 					(unit 1)
 				)
 			)
@@ -31621,7 +33802,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 240.03 354.33 0)
+		(at 240.03 364.49 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -31629,8 +33810,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d5dc3286-0570-4e0c-82c9-12c8e1c4e674")
-		(property "Reference" "LED72"
-			(at 241.3 358.14 0)
+		(property "Reference" "LEDC6-R11"
+			(at 243.332 365.252 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31638,7 +33819,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 239.27 360.68 0)
+			(at 233.68 363.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31647,7 +33828,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 240.03 346.71 0)
+			(at 247.65 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31656,7 +33837,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 354.33 0)
+			(at 240.03 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31665,7 +33846,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.03 354.33 0)
+			(at 240.03 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31674,7 +33855,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 240.03 344.17 0)
+			(at 250.19 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31691,7 +33872,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED72")
+					(reference "LEDC6-R11")
 					(unit 1)
 				)
 			)
@@ -32209,7 +34390,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 223.52 307.34 0)
+		(at 224.79 306.07 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -32217,8 +34398,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e355c9b1-fbb1-48b1-ab67-fee9d14bc7db")
-		(property "Reference" "LED69"
-			(at 224.79 311.15 0)
+		(property "Reference" "LEDC2-R10"
+			(at 227.584 306.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32226,7 +34407,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 222.76 313.69 0)
+			(at 218.44 305.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32235,7 +34416,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 223.52 299.72 0)
+			(at 232.41 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32244,7 +34425,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 307.34 0)
+			(at 224.79 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32253,7 +34434,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 307.34 0)
+			(at 224.79 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32262,7 +34443,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 223.52 297.18 0)
+			(at 234.95 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32279,7 +34460,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED69")
+					(reference "LEDC2-R10")
 					(unit 1)
 				)
 			)
@@ -32287,7 +34468,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 240.03 295.91 0)
+		(at 240.03 292.1 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -32295,8 +34476,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e487a432-6d4b-4c74-9a75-7ddd3555b019")
-		(property "Reference" "LED77"
-			(at 241.3 299.72 0)
+		(property "Reference" "LEDC1-R11"
+			(at 243.078 292.862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32304,7 +34485,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 239.27 302.26 0)
+			(at 233.68 291.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32313,7 +34494,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 240.03 288.29 0)
+			(at 247.65 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32322,7 +34503,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 240.03 295.91 0)
+			(at 240.03 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32331,7 +34512,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 240.03 295.91 0)
+			(at 240.03 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32340,7 +34521,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 240.03 285.75 0)
+			(at 250.19 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32357,7 +34538,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED77")
+					(reference "LEDC1-R11")
 					(unit 1)
 				)
 			)
@@ -32365,7 +34546,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 285.75 318.77 0)
+		(at 285.75 320.04 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -32373,8 +34554,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e6371ded-fb2b-4718-a4b3-e437d77f48b2")
-		(property "Reference" "LED96"
-			(at 287.02 322.58 0)
+		(property "Reference" "LEDC3-R14"
+			(at 288.798 320.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32382,7 +34563,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 284.99 325.12 0)
+			(at 279.4 319.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32391,7 +34572,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 285.75 311.15 0)
+			(at 293.37 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32400,7 +34581,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 285.75 318.77 0)
+			(at 285.75 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32409,7 +34590,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 285.75 318.77 0)
+			(at 285.75 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32418,7 +34599,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 285.75 308.61 0)
+			(at 295.91 320.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32435,7 +34616,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED96")
+					(reference "LEDC3-R14")
 					(unit 1)
 				)
 			)
@@ -32748,7 +34929,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 223.52 330.2 0)
+		(at 224.79 335.28 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -32756,8 +34937,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e8c9fda3-b428-48af-baf0-37b1863e9cf6")
-		(property "Reference" "LED67"
-			(at 224.79 334.01 0)
+		(property "Reference" "LEDC4-R10"
+			(at 228.346 336.296 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32765,7 +34946,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 222.76 336.55 0)
+			(at 218.44 334.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32774,7 +34955,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 223.52 322.58 0)
+			(at 232.41 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32783,7 +34964,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 330.2 0)
+			(at 224.79 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32792,7 +34973,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 330.2 0)
+			(at 224.79 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32801,7 +34982,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 223.52 320.04 0)
+			(at 234.95 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32818,7 +34999,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED67")
+					(reference "LEDC4-R10")
 					(unit 1)
 				)
 			)
@@ -32834,8 +35015,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ec263f66-ba09-461a-a6dc-9a87906ae743")
-		(property "Reference" "LED62"
-			(at 204.47 307.34 0)
+		(property "Reference" "LEDC2-R9"
+			(at 211.582 306.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32896,7 +35077,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED62")
+					(reference "LEDC2-R9")
 					(unit 1)
 				)
 			)
@@ -32904,7 +35085,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 299.72 307.34 0)
+		(at 299.72 306.07 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -32912,8 +35093,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "eeb742bf-9d6d-469a-b8b3-6151eed4a1d1")
-		(property "Reference" "LED104"
-			(at 300.99 311.15 0)
+		(property "Reference" "LEDC2-R15"
+			(at 302.768 306.832 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32921,7 +35102,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 298.96 313.69 0)
+			(at 293.37 305.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32930,7 +35111,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 299.72 299.72 0)
+			(at 307.34 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32939,7 +35120,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 299.72 307.34 0)
+			(at 299.72 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32948,7 +35129,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 299.72 307.34 0)
+			(at 299.72 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32957,7 +35138,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 299.72 297.18 0)
+			(at 309.88 306.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32974,7 +35155,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED104")
+					(reference "LEDC2-R15")
 					(unit 1)
 				)
 			)
@@ -33138,7 +35319,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 285.75 295.91 0)
+		(at 285.75 292.1 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -33146,8 +35327,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f2c1171c-b86b-4510-b6c1-c048295ce888")
-		(property "Reference" "LED98"
-			(at 287.02 299.72 0)
+		(property "Reference" "LEDC1-R14"
+			(at 289.052 292.862 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33155,7 +35336,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 284.99 302.26 0)
+			(at 279.4 291.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33164,7 +35345,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 285.75 288.29 0)
+			(at 293.37 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33173,7 +35354,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 285.75 295.91 0)
+			(at 285.75 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33182,7 +35363,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 285.75 295.91 0)
+			(at 285.75 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33191,7 +35372,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 285.75 285.75 0)
+			(at 295.91 292.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33208,7 +35389,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED98")
+					(reference "LEDC1-R14")
 					(unit 1)
 				)
 			)
@@ -33436,7 +35617,7 @@
 	)
 	(symbol
 		(lib_id "easyeda2kicad:F.0402.00003_P2-0402R1TS2-045T-001")
-		(at 223.52 354.33 0)
+		(at 224.79 364.49 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -33444,8 +35625,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f5c4990c-c714-4b88-894a-839dc4362778")
-		(property "Reference" "LED65"
-			(at 224.79 358.14 0)
+		(property "Reference" "LEDC6-R10"
+			(at 228.092 364.744 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33453,7 +35634,7 @@
 			)
 		)
 		(property "Value" "F.0402.00003/P2-0402R1TS2-045T-001"
-			(at 222.76 360.68 0)
+			(at 218.44 363.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33462,7 +35643,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:LED0402-RD"
-			(at 223.52 346.71 0)
+			(at 232.41 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33471,7 +35652,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 223.52 354.33 0)
+			(at 224.79 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33480,7 +35661,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 223.52 354.33 0)
+			(at 224.79 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33489,7 +35670,7 @@
 			)
 		)
 		(property "LCSC Part" "C7496803"
-			(at 223.52 344.17 0)
+			(at 234.95 364.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33506,7 +35687,7 @@
 		(instances
 			(project "tikk-hw"
 				(path "/3d32aeaf-a681-4c47-a6d3-68ef8c82b0dd"
-					(reference "LED65")
+					(reference "LEDC6-R10")
 					(unit 1)
 				)
 			)
