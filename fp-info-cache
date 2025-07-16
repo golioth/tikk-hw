@@ -1,4 +1,4 @@
-25639226293861046
+25646235999164205
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102647,6 +102647,34 @@ Connector
 0
 7
 7
+easyeda2kicad
+C0402
+
+
+0
+2
+2
+easyeda2kicad
+C0603
+
+
+0
+2
+2
+easyeda2kicad
+C0805
+
+
+0
+2
+2
+easyeda2kicad
+C1206
+
+
+0
+2
+2
 easyeda2kicad
 CONN-SMD_4P-P1.00_MEGASTAR_ZX-SH1.0-4PWT
 
