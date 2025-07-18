@@ -646,7 +646,7 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.wrl"
 			(offset
-				(xyz 0 0 -0)
+				(xyz 0 0 0.4)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -1841,7 +1841,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "eadffa49-1e31-4adf-a86c-babbc3c98894")
+			(uuid "b52cfa0d-6036-44fc-973b-25dadea34a79")
 		)
 		(fp_line
 			(start -2.41 -1.09)
@@ -1851,7 +1851,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cfd17455-de04-4ab8-bc65-317a589eeadb")
+			(uuid "a3a3f126-4210-49be-8c15-280576a777f3")
 		)
 		(fp_line
 			(start 2.56 0.94)
@@ -1861,7 +1861,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "566c03ad-3038-4b14-964d-a56c7655a4d0")
+			(uuid "9aed2fd1-d4ef-4aff-9ba4-bec0dfd3f668")
 		)
 		(fp_line
 			(start -2.56 0.94)
@@ -1871,7 +1871,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "465bd68e-097b-4d80-af95-e3fe93f9dfac")
+			(uuid "2f665bb4-ecc9-41e3-be25-44adc8337f0f")
 		)
 		(fp_line
 			(start 0.93 1.09)
@@ -1881,7 +1881,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "7e3cb209-cb94-4329-82ff-4106b4a66ad2")
+			(uuid "ec62230a-20e9-4797-80d5-79697ddeb18c")
 		)
 		(fp_line
 			(start -0.93 1.09)
@@ -1891,7 +1891,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4266b6a6-4056-4676-bf26-297e55090ea9")
+			(uuid "4c58ccbf-8470-4363-be29-d66cf56c1d62")
 		)
 		(fp_arc
 			(start 2.41 -1.09)
@@ -1902,7 +1902,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "861b6b52-c21d-48d5-9a7b-aabe2e6b1362")
+			(uuid "0f1ac37e-bfcb-4906-9b75-0f76d8c5a53c")
 		)
 		(fp_arc
 			(start -2.56 -0.94)
@@ -1913,7 +1913,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "24939d2e-7ee2-4206-9f46-98cdcd65a4ef")
+			(uuid "8795e766-2aca-4e3a-9bd0-3edee5094ba1")
 		)
 		(fp_arc
 			(start 2.56 0.94)
@@ -1924,7 +1924,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "20a984cc-da4b-4f43-a734-5d8b93e08d2e")
+			(uuid "36487880-047f-462a-bd1e-1425d1835155")
 		)
 		(fp_arc
 			(start -2.41 1.09)
@@ -1935,7 +1935,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9d97fc28-a5fb-4f3a-a4b5-e97abef93a5e")
+			(uuid "ad388fd5-4cd4-4b23-b583-7b0039d641e3")
 		)
 		(fp_circle
 			(center -1.6 0.8)
@@ -1946,7 +1946,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "5d72751c-4781-4621-b0b6-ed444b9c0e24")
+			(uuid "eff40132-48fe-4cd4-9f31-b26a410f34cb")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -1980,13 +1980,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/C1206_L3.2-W1.6-H1.3.wrl"
 			(offset
-				(xyz 0 -0 -0)
+				(xyz 0 -0 0.65)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2008,7 +2008,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "RC0402FR-07100KL"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2268,7 +2268,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "27b00e1b-8a9f-4e55-b37b-ac70b417477b")
+			(uuid "e4a62b18-7ad6-4507-9b5f-ae0d733a72d9")
 		)
 		(fp_line
 			(start -2.41 -1.09)
@@ -2278,7 +2278,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "01410fff-59cf-4ded-babd-ac34ba5862eb")
+			(uuid "adfcdf36-04ef-4206-be9f-3a21d954a383")
 		)
 		(fp_line
 			(start 2.56 0.94)
@@ -2288,7 +2288,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fb15f0f9-70fc-4344-895e-c73d72d039f1")
+			(uuid "b6dc6731-232a-46b9-8e1d-f9d960b668c4")
 		)
 		(fp_line
 			(start -2.56 0.94)
@@ -2298,7 +2298,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "3dec18a1-2558-4a20-92f0-18075d5c01f2")
+			(uuid "7b391274-a3d6-4ed4-b369-a1d1586ab134")
 		)
 		(fp_line
 			(start 0.93 1.09)
@@ -2308,7 +2308,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ba95d701-45d2-4c73-b475-e03ce13c4919")
+			(uuid "bb706cb9-0180-45a1-99e0-cc6e7cc98e31")
 		)
 		(fp_line
 			(start -0.93 1.09)
@@ -2318,7 +2318,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "47a5fe21-c076-40b4-94c2-be5bd1add5a8")
+			(uuid "c168b2c3-4f6b-40b1-8a80-ecc20d3b8671")
 		)
 		(fp_arc
 			(start 2.41 -1.09)
@@ -2329,7 +2329,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "992c20ae-e763-40c1-9df0-3094d6184b30")
+			(uuid "55a353a6-0d10-42ba-8031-1d0905722cd5")
 		)
 		(fp_arc
 			(start -2.56 -0.94)
@@ -2340,7 +2340,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "190ab21d-d1dc-42a9-a339-1f8872f16198")
+			(uuid "f9e1e77a-ed6c-489c-bc58-ac7b6241e105")
 		)
 		(fp_arc
 			(start 2.56 0.94)
@@ -2351,7 +2351,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "412f42f1-70b4-492d-8c2f-749189573236")
+			(uuid "f31a0fc1-cfaf-4b15-b488-63cc537072e3")
 		)
 		(fp_arc
 			(start -2.41 1.09)
@@ -2362,7 +2362,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f4240dae-656d-4e81-9b38-afd1ac0e188a")
+			(uuid "7c88d373-9722-489f-a990-f598eb4f7409")
 		)
 		(fp_circle
 			(center -1.6 0.8)
@@ -2373,7 +2373,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "ef05d961-4504-45eb-b679-4014df7b9717")
+			(uuid "6e0f16bf-a880-4908-9749-12bbf1217eda")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -2407,13 +2407,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/C1206_L3.2-W1.6-H1.3.wrl"
 			(offset
-				(xyz 0 -0 -0)
+				(xyz 0 -0 0.65)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2791,7 +2791,7 @@
 		(path "/466d5958-fe85-4419-8747-4777afcf2c15")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -3562,7 +3562,7 @@
 		(path "/34160209-b36b-4444-bcaf-b5ae774897c6")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -3911,7 +3911,7 @@
 		(path "/2cca8477-cc43-4370-8c08-22f0163f285c")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -4017,7 +4017,7 @@
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
 		(zone_connect 2)
-		(attr exclude_from_pos_files exclude_from_bom allow_soldermask_bridges)
+		(attr exclude_from_pos_files exclude_from_bom dnp allow_soldermask_bridges)
 		(net_tie_pad_groups "1, 2")
 		(fp_poly
 			(pts
@@ -4444,7 +4444,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "2751ad15-4a25-4f45-a9d4-571e950c8790")
+			(uuid "2ca0cd33-76ee-415f-bd45-04ef981b81c4")
 		)
 		(fp_line
 			(start -2.41 -1.09)
@@ -4454,7 +4454,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4d626868-0c33-4ad3-85a1-ae6b0cddc9e1")
+			(uuid "acb14fc5-32ad-4dc1-9fd5-8bdc6ac31d93")
 		)
 		(fp_line
 			(start 2.56 0.94)
@@ -4464,7 +4464,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "319185af-1cb7-4e33-b154-5e5cf7ac4d9c")
+			(uuid "292aa4e0-f714-4401-8cd0-9dfcdb79a4e1")
 		)
 		(fp_line
 			(start -2.56 0.94)
@@ -4474,7 +4474,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "efceef41-d913-4901-9bf4-67b5fc2968c3")
+			(uuid "d6cc6a6c-1cfd-442f-8b5c-271fb6b714a9")
 		)
 		(fp_line
 			(start 0.93 1.09)
@@ -4484,7 +4484,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f28095cd-91d8-42c9-b5f7-b67bd5996703")
+			(uuid "31d8f866-14c6-4900-971c-e87cac15b00e")
 		)
 		(fp_line
 			(start -0.93 1.09)
@@ -4494,7 +4494,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "47ee4fc8-0213-40e1-b327-904a2f2ee2e2")
+			(uuid "91eb5970-9be2-417c-8e9b-1f97dd1ac1ad")
 		)
 		(fp_arc
 			(start 2.41 -1.09)
@@ -4505,7 +4505,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "91f105fd-e464-4ce7-b6ae-3f7ebd5b667a")
+			(uuid "3ddfe7f0-7308-4b2c-bf2f-b00578895fdc")
 		)
 		(fp_arc
 			(start -2.56 -0.94)
@@ -4516,7 +4516,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0e2eae83-c3df-4d2d-b47b-13f6de77f5e0")
+			(uuid "d3c3ccaf-a8ec-4384-92a0-ea3212c31777")
 		)
 		(fp_arc
 			(start 2.56 0.94)
@@ -4527,7 +4527,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "03f5d042-1e4e-446b-88d8-b5a4ff365752")
+			(uuid "65a8b583-04f0-4cda-b00e-47e64641488b")
 		)
 		(fp_arc
 			(start -2.41 1.09)
@@ -4538,7 +4538,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "fdce4917-ee48-4fcc-8eb0-9206a41fe09e")
+			(uuid "e169910a-330c-4c2d-bbd6-22fc03cfc93e")
 		)
 		(fp_circle
 			(center -1.6 0.8)
@@ -4549,7 +4549,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "34aa89ef-12da-4211-ba07-9aae691ec3f2")
+			(uuid "346fcb67-f059-4b31-8f44-a5cb398e24a3")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -4583,13 +4583,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/C1206_L3.2-W1.6-H1.3.wrl"
 			(offset
-				(xyz 0 -0 -0)
+				(xyz 0 -0 0.65)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -4651,7 +4651,7 @@
 		(path "/cc41aaea-1a80-4dc6-bbed-0ac8f97dfda1")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -4714,7 +4714,7 @@
 				)
 			)
 		)
-		(property "Value" "100K"
+		(property "Value" "RC0402FR-07100KL"
 			(at 0 1.17 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -5113,7 +5113,7 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/C0805_L2.0-W1.3-H1.3.wrl"
 			(offset
-				(xyz 0 -0 -0)
+				(xyz 0 -0 0.65)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5339,7 +5339,7 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.wrl"
 			(offset
-				(xyz 0 0 -0)
+				(xyz 0 0 0.4)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -5405,7 +5405,7 @@
 		(path "/638d1934-7cd5-437f-8fe5-b7036d23b696")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr through_hole)
+		(attr through_hole exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -8.89 -21.59)
 			(end 8.89 -21.59)
@@ -5524,7 +5524,7 @@
 			)
 		)
 		(fp_text user "0.11"
-			(at -7.8867 7.7597 0)
+			(at -8.128767 7.912475 45)
 			(layer "F.SilkS")
 			(uuid "495f6f08-fc0e-4e04-8332-c2c581788a91")
 			(effects
@@ -5590,7 +5590,7 @@
 			)
 		)
 		(fp_text user "1.00"
-			(at -7.8867 5.2197 180)
+			(at -8.028767 5.312475 45)
 			(layer "F.SilkS")
 			(uuid "83622ab6-e9ea-4075-87e0-4dfb9aba4a5c")
 			(effects
@@ -6474,6 +6474,18 @@
 				)
 			)
 		)
+		(property "LCSC" "C18548053"
+			(at 0 0 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "9357ef61-d953-489a-afcd-a905a4129652")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/d10247a8-4540-4f43-ad9d-0a779024a027")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
@@ -6818,7 +6830,7 @@
 		(path "/d3baf1dc-af80-4c05-b12f-b86a35cfbc07")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -7281,7 +7293,7 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/C0603_L1.6-W0.8-H0.8.wrl"
 			(offset
-				(xyz 0 0 -0)
+				(xyz 0 0 0.35)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7577,7 +7589,7 @@
 		(path "/3a472127-56f4-4062-99f4-8bad6508c797")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -8450,7 +8462,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "23806292-ac2a-4c7e-ac97-52503e658527")
+			(uuid "08ad20d5-cdc2-49fb-b9c4-133c49871348")
 		)
 		(fp_line
 			(start -2.41 -1.09)
@@ -8460,7 +8472,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "06eb0199-5bf9-4c05-976a-50878bd50a6c")
+			(uuid "eed8e896-99b3-4abd-824b-a3cca25ff53c")
 		)
 		(fp_line
 			(start 2.56 0.94)
@@ -8470,7 +8482,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "5744ab4b-8da6-4b77-8c62-dbd7c55408b2")
+			(uuid "71133264-c851-4470-be59-c37d8bd68a78")
 		)
 		(fp_line
 			(start -2.56 0.94)
@@ -8480,7 +8492,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ced6265d-9d66-41bd-9636-e88d9ea44cbb")
+			(uuid "0c752fc9-a430-44bc-979f-09e49a96ba12")
 		)
 		(fp_line
 			(start 0.93 1.09)
@@ -8490,7 +8502,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "6065af8e-05a5-4dcd-b866-5a2316fd0d7c")
+			(uuid "5d542279-7527-4264-8613-135fd4a0425f")
 		)
 		(fp_line
 			(start -0.93 1.09)
@@ -8500,7 +8512,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "45e0b097-cccc-4160-a4c2-39825455a2df")
+			(uuid "9f0bf44c-7858-40a5-b864-5419eaaa8ed0")
 		)
 		(fp_arc
 			(start 2.41 -1.09)
@@ -8511,7 +8523,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a4a3c3fc-6f2a-44ba-bcb1-fe8c892c9ce6")
+			(uuid "a0afad99-a8d8-4fa2-930b-c96b7bf29eb6")
 		)
 		(fp_arc
 			(start -2.56 -0.94)
@@ -8522,7 +8534,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "392e6928-cbe5-4389-bc24-7a7f7aa83985")
+			(uuid "a8dde441-e225-4a51-ab0a-8aa5d1f9e323")
 		)
 		(fp_arc
 			(start 2.56 0.94)
@@ -8533,7 +8545,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b854c37b-2a93-4b65-9e50-eb56f117f8b2")
+			(uuid "89a4c107-21e3-48ec-9475-0eec73e88bf5")
 		)
 		(fp_arc
 			(start -2.41 1.09)
@@ -8544,7 +8556,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "4526aa19-ec04-45a7-bb13-536abaa4c2ef")
+			(uuid "e42e55e2-3196-4d89-baad-19550bc7c9d8")
 		)
 		(fp_circle
 			(center -1.6 0.8)
@@ -8555,7 +8567,7 @@
 			)
 			(fill no)
 			(layer "F.Fab")
-			(uuid "18f40ee0-3385-46cf-bfdd-41d8d3417bd4")
+			(uuid "65175dfc-0f49-4863-94fb-833cae712470")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 90)
@@ -8589,13 +8601,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/C1206_L3.2-W1.6-H1.3.wrl"
 			(offset
-				(xyz 0 -0 -0)
+				(xyz 0 -0 0.65)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -8659,7 +8671,7 @@
 		(path "/d9f59072-cd8b-4553-8ff7-f0a9d434aeb2")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -21422,13 +21434,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SW-SMD_TS24CA.wrl"
 			(offset
-				(xyz -0 0.68 0.4)
+				(xyz -0 0.68 1.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -23566,7 +23578,7 @@
 		(path "/f9864d02-758d-4836-965f-8c4f4f3f95a9")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.7 0.7)
 			(end 0.7 -0.7)
@@ -23734,7 +23746,7 @@
 		(path "/8c38a710-699c-433b-a3d9-d5c9237c53e0")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_line
 			(start 0.7 0.7)
 			(end 0.7 -0.7)
@@ -24820,7 +24832,7 @@
 		(path "/610c29f7-f921-4ca9-b4a5-dbf71ef9981e")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 2.1 0)
@@ -27672,13 +27684,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SW-SMD_TS24CA.wrl"
 			(offset
-				(xyz -0 0.68 0.4)
+				(xyz -0 0.68 1.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -27974,7 +27986,7 @@
 		(path "/d3fa9319-6cd8-42d6-8268-d80351227ef5")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files exclude_from_bom dnp)
 		(fp_circle
 			(center 0 0)
 			(end 2.1 0)
@@ -34637,6 +34649,28 @@
 				(xyz -0 -0 -0)
 			)
 		)
+	)
+	(gr_circle
+		(center 162.102533 113.302775)
+		(end 162.202533 113.202775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "64a3f582-ebab-421b-8e0d-8336566ff4a4")
+	)
+	(gr_rect
+		(start 156.602533 109.902775)
+		(end 161.602533 114.902775)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.SilkS")
+		(uuid "d8de6b04-5d6a-47ac-8893-9053b8a49475")
 	)
 	(gr_line
 		(start 172.802533 85.402775)
