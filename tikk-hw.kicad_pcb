@@ -675,13 +675,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-1.wrl"
 			(offset
-				(xyz 0 -0 0)
+				(xyz 0 -0 0.762)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2278,13 +2278,13 @@
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/SOP-8_L4.9-W3.9-P1.27-LS6.0-BL-1.wrl"
 			(offset
-				(xyz 0 -0 0)
+				(xyz 0 -0 0.762)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 -0)
 			)
 		)
 	)
@@ -2888,7 +2888,7 @@
 		(path "/466d5958-fe85-4419-8747-4777afcf2c15")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom dnp)
+		(attr exclude_from_pos_files dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -3659,7 +3659,7 @@
 		(path "/34160209-b36b-4444-bcaf-b5ae774897c6")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom dnp)
+		(attr exclude_from_pos_files dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -4109,7 +4109,7 @@
 		(path "/2cca8477-cc43-4370-8c08-22f0163f285c")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom dnp)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -4851,7 +4851,7 @@
 		(path "/cc41aaea-1a80-4dc6-bbed-0ac8f97dfda1")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom dnp)
+		(attr exclude_from_pos_files dnp)
 		(fp_circle
 			(center 0 0)
 			(end 0 0.7)
@@ -5605,7 +5605,7 @@
 		(path "/638d1934-7cd5-437f-8fe5-b7036d23b696")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom dnp)
+		(attr through_hole exclude_from_pos_files dnp)
 		(fp_line
 			(start -8.89 -21.59)
 			(end 8.89 -21.59)
@@ -7018,7 +7018,7 @@
 		(path "/d3baf1dc-af80-4c05-b12f-b86a35cfbc07")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom dnp)
+		(attr exclude_from_pos_files dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -7777,7 +7777,7 @@
 		(path "/3a472127-56f4-4062-99f4-8bad6508c797")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom dnp)
+		(attr exclude_from_pos_files dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -8859,7 +8859,7 @@
 		(path "/d9f59072-cd8b-4553-8ff7-f0a9d434aeb2")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom dnp)
+		(attr exclude_from_pos_files dnp)
 		(fp_line
 			(start -0.7 -0.7)
 			(end 0.7 -0.7)
@@ -23975,7 +23975,7 @@
 		(path "/f9864d02-758d-4836-965f-8c4f4f3f95a9")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom dnp)
+		(attr exclude_from_pos_files dnp)
 		(fp_line
 			(start 0.7 0.7)
 			(end 0.7 -0.7)
@@ -24143,7 +24143,7 @@
 		(path "/8c38a710-699c-433b-a3d9-d5c9237c53e0")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom dnp)
+		(attr exclude_from_pos_files dnp)
 		(fp_line
 			(start 0.7 0.7)
 			(end 0.7 -0.7)
@@ -31066,7 +31066,6 @@
 		)
 	)
 	(footprint "easyeda2kicad:HDR-TH_4P-P2.54-H-M-W10.4"
-		(locked yes)
 		(layer "B.Cu")
 		(uuid "d5947cb8-a530-4213-995f-7528e06bbede")
 		(at 163.762534 89.700276)
@@ -31139,7 +31138,7 @@
 		(path "/bb52f0b6-d97e-4605-8736-70e5039843bf")
 		(sheetname "/")
 		(sheetfile "tikk-hw.kicad_sch")
-		(attr through_hole dnp)
+		(attr through_hole)
 		(fp_line
 			(start -5.09 -4.18)
 			(end -5.09 -1.7)
@@ -31449,7 +31448,6 @@
 		)
 		(embedded_fonts no)
 		(model "${EASYEDA2KICAD}/easyeda2kicad.3dshapes/HDR-TH_4P-P2.54-M-WI-1X4P.wrl"
-			(hide yes)
 			(offset
 				(xyz 0 -2.75 0)
 			)
